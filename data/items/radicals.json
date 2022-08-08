@@ -1,0 +1,2912 @@
+[
+    {
+        "char": "一",
+        "level": 1,
+        "meaning": "Ground",
+        "mnemonic": "This radical consists of a single, horizontal stroke. What's the biggest, single, horizontal stroke? That's the <radical>ground</radical>. Look at the ground, look at this radical, now look at the ground again. Kind of the same, right?"
+    },
+    {
+        "char": "ハ",
+        "level": 1,
+        "meaning": "Fins",
+        "mnemonic": "Picture a fish. Now picture the fish a little worse, like a child's drawing of the fish. Now erase the fish's body and... you're left with two <radical>fins</radical>! Do you see these two fins? Yeah, you see them."
+    },
+    {
+        "char": "丶",
+        "level": 1,
+        "meaning": "Drop",
+        "mnemonic": "This little radical is a <radical>drop</radical> of water or some other liquid. Notice how it's only one drop? Sometimes radicals or kanji will have more than one drop, so it's important that you know how to tell them apart."
+    },
+    {
+        "char": "七",
+        "level": 1,
+        "meaning": "Seven",
+        "mnemonic": "What does this radical look like? Hmm, nothing much. What about if you turn it upside down? Now does it look like a 7 with a line through it? Close enough to help you to remember that this radical is <radical>seven</radical>, right? Just remember, when you see this radical, flip it over and see what number it looks like. If you can do that, you can remember the meaning!"
+    },
+    {
+        "char": "丿",
+        "level": 1,
+        "meaning": "Slide",
+        "mnemonic": "Close your eyes and imagine you're a kid again. Now open them and... look! It's a <radical>slide</radical>! Imagine little you sliding down this slide over and over, having a great time. Imagination + emotion makes for good memorization!"
+    },
+    {
+        "char": "亅",
+        "level": 1,
+        "meaning": "Barb",
+        "mnemonic": "This radical is shaped like a <radical>barb</radical>. Like the kind you'd see on barb wire. Imagine one of these getting stuck to your arm or your clothes. Think about how much it would hurt with that little hook on the end sticking into you. Say out loud, \"Oh dang, I got a barb stuck in me!\""
+    },
+    {
+        "char": "二",
+        "level": 1,
+        "meaning": "Two",
+        "mnemonic": "One line plus another line equals <radical>two</radical> lines. This radical represents the number two. Pretty simple, right? Can you guess what three looks like? I bet you can..."
+    },
+    {
+        "char": "亠",
+        "level": 1,
+        "meaning": "Lid",
+        "mnemonic": "This looks like something you'd put on a kettle or a pot, right? It even has a little handle to make sure you don't burn yourself. This is some kind of <radical>lid</radical>."
+    },
+    {
+        "char": "人",
+        "level": 1,
+        "meaning": "Person",
+        "mnemonic": "If you were to draw a <radical>person</radical> with just strokes like you see in kanji, you'd create a stick figure, maybe something like this: <ja>大</ja>. But this is just a person, not someone holding out their arms to show how big they are. So their arms are down, which makes them look like a torso with a pair of legs. Maybe they're walking too, which is why their legs are spread out like that. You can see the person now, can't you?"
+    },
+    {
+        "char": "ト",
+        "level": 1,
+        "meaning": "Toe",
+        "mnemonic": "This radical looks just like the katakana character <ja>ト</ja> (to), which sounds like the word <radical>toe</radical>. So when you see <ja>ト</ja>, think toe."
+    },
+    {
+        "char": "九",
+        "level": 1,
+        "meaning": "Nine",
+        "mnemonic": "If you look at this radical in just the right way, you'll notice that it kind of looks like the letters \"n\" and \"i\" (the \"i\" comes from the little flippy-up stroke on the right side). What do the letters \"n\" and \"i\" start spelling? Why, the word <radical>nine</radical>."
+    },
+    {
+        "char": "入",
+        "level": 1,
+        "meaning": "Enter",
+        "mnemonic": "Watch out! This isn't the person radical, it's something else. What's the difference? The right side is longer than the left side. And on computers, it usually has that extra part sticking out of the top. It kind of looks like a flap opening to a teepee. And what do you do with an opening? You enter it! That's why this radical is <radical>enter</radical>."
+    },
+    {
+        "char": "力",
+        "level": 1,
+        "meaning": "Power",
+        "mnemonic": "Imagine a guy flexing his arm downward to show off his steroid-pumped arm. It's huge. It's so full of <radical>power</radical>. RARRRWWWRRR!!"
+    },
+    {
+        "char": "勹",
+        "level": 1,
+        "meaning": "Prison",
+        "mnemonic": "This looks like an enclosure of sorts - that's why it's a <radical>prison</radical>. It wraps itself around things and locks them in there. Prisons are pretty scary, even before you imagine one slowly floating down from the sky to trap you."
+    },
+    {
+        "char": "十",
+        "level": 1,
+        "meaning": "Cross",
+        "mnemonic": "This radical looks like a <radical>cross</radical>. I mean, just look at it. Two bars going through each other = a cross!"
+    },
+    {
+        "char": "口",
+        "level": 1,
+        "meaning": "Mouth",
+        "mnemonic": "A big, gaping, square hole represents someone opening their giant <radical>mouth</radical> to tell you something stupid."
+    },
+    {
+        "char": "土",
+        "level": 2,
+        "meaning": "Dirt",
+        "mnemonic": "There's a cross drawn on the ground, making this <radical>dirt</radical>. You can draw anything in the dirt, it just happens to be a cross this time. Imagine drawing a cross in the dirt with your finger. Feel the dirt get stuck under your fingernail and never forget."
+    },
+    {
+        "char": "大",
+        "level": 1,
+        "meaning": "Big",
+        "mnemonic": "This radical looks just like a stick figure—more specifically, a really <radical>big</radical> guy with his arms stretched out nice and big. When you see this radical, just think big, because this guy is really BIG!"
+    },
+    {
+        "char": "女",
+        "level": 1,
+        "meaning": "Woman",
+        "mnemonic": "This radical looks like a wide person made up of two stacked Xs. Women generally have two XXs for chromosomes, and back in the day they were praised for their wide, child-bearing hips. We may not think of women this way anymore, but way back when Japanese was made, this made them think of a <radical>woman</radical>."
+    },
+    {
+        "char": "山",
+        "level": 1,
+        "meaning": "Mountain",
+        "mnemonic": "This is a <radical>mountain</radical>. You'll have to add the lines that make up the top of the mountain if you want it more \"mountain-like.\" Also something that might help: sometimes mountains have a couple of smaller peaks coming out the side of the main peak too. Connect the dots and create the mountain in your mind."
+    },
+    {
+        "char": "川",
+        "level": 1,
+        "meaning": "River",
+        "mnemonic": "This radical already looks like a <radical>river</radical>. See the banks of the river on the side and the flow of the river in the middle? There's even a slight turn in the river too. So when you see this radical, you should think \"river.\""
+    },
+    {
+        "char": "日",
+        "level": 1,
+        "meaning": "Sun",
+        "mnemonic": "Since there are no circles in Japanese characters, sometimes rectangles or squares have to make do. In this case, this big rectangle is the <radical>sun</radical>. The middle line going through the center horizontally is the equator. Or maybe it's a cloud, moving across the sun. Picture it, but don't actually look at the sun and burn your eyes!"
+    },
+    {
+        "char": "木",
+        "level": 1,
+        "meaning": "Tree",
+        "mnemonic": "Do you see the <radical>tree</radical> in here? It has branches, and then it has the foliage coming down diagonally from it, spreading out like a tree would. That's why this radical is a tree."
+    },
+    {
+        "char": "刀",
+        "level": 2,
+        "meaning": "Sword",
+        "mnemonic": "If you look at this radical, it looks like the bottom part of a <radical>sword</radical>—the handle, more specifically. This radical also looks a lot like the power radical (<ja>力</ja>), so don't get them confused. It's missing the little nubbin at the top, because 90% of the power comes from the sword to cut your enemies down (which is why the sword radical is 90% of the power radical)."
+    },
+    {
+        "char": "工",
+        "level": 1,
+        "meaning": "Construction",
+        "mnemonic": "You know those big steel girders that are used for the frame of big buildings? This is like the end of one of those, and have a very distinct shape, just like this radical. These girders are used in construction, which is why this radical means <radical>construction</radical>. Funny thing is, you use these girders to put together buildings just like you're going to use this radical to put together kanji!"
+    },
+    {
+        "char": "ナ",
+        "level": 2,
+        "meaning": "Narwhal",
+        "mnemonic": "This radical looks like the katakana character <ja>ナ</ja> (na), which we're going to say stands for <radical>narwhal</radical>. Plus, this radical kind of looks like a narwhal, right? The body and head on the bottom, and the single majestic narwhal horn coming out the top, shooting up out of the water and into the air. Oh, and don't confuse this radical with treasure. The sideways line for narwhal (<ja>ナ</ja>) is horizontal, the sideways line for treasure is at more of a downward angle (<ja>メ</ja>), like an \"X.\""
+    },
+    {
+        "char": "丁",
+        "level": 2,
+        "meaning": "Street",
+        "mnemonic": "There's a barb under the ground, holding it in place. This is actually a <radical>street</radical>. All streets have to be secured to the ground with barbs so that they don't slide all over the place. If you tried to pick up the asphalt streets we have today, you'd still find barbs under the ground to keep them there. The more you know! ⭐"
+    },
+    {
+        "char": "儿",
+        "level": 2,
+        "meaning": "Legs",
+        "mnemonic": "This radical already looks like a pair of <radical>legs</radical>. There's even feet on these legs (unlike the fins radical, which you learned earlier). That's how you know these are legs and not fins (or something else)."
+    },
+    {
+        "char": "冂",
+        "level": 2,
+        "meaning": "Head",
+        "mnemonic": "This is the kind of <radical>head</radical> a child might draw—can you imagine it with eyes, nose, mouth, and ears too? Whoever's head this is, it's really square. Maybe it's the head of a <a href=\"https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)\" target=\"_blank\">famous spongy cartoon character</a>. Hmm."
+    },
+    {
+        "char": "又",
+        "level": 2,
+        "meaning": "Stool",
+        "mnemonic": "This looks just like a fold-out <radical>stool</radical>, amiright?"
+    },
+    {
+        "char": "メ",
+        "level": 2,
+        "meaning": "Treasure",
+        "mnemonic": "This radical is <radical>treasure</radical> because \"X marks the spot,\" as they say. Doesn't it look like the X on a pirate treasure map? You want to go find that treasure now, right?!"
+    },
+    {
+        "char": "千",
+        "level": 2,
+        "meaning": "Thousand",
+        "mnemonic": "You're in a room, surrounded by slides. Down off the slides tumble cross after cross after cross. They're bouncing in and hitting you in the face, the arm, everywhere... With each cross comes a voice yelling, \"ONE! TWO! THREE HUNDRED! FIVE HUNDRED!\" and so on. You are worried it will never end, because you're starting to drown in the crosses. Then the voice yells out ONE <radical>THOUSAND</radical> and they stop. Still, you can't move. Think about all the numbers being called out, and keep wondering if it'll be the last one. Feel the relief you'd feel if it stops on a thousand, because you won't be buried anymore. The thousand crosses are covering you entirely, over your head, but because they're crosses you can still breathe."
+    },
+    {
+        "char": "夕",
+        "level": 2,
+        "meaning": "Evening",
+        "mnemonic": "Do you see the prison and drop radicals making up this radical? This prison is holding onto a drop because it's the <radical>evening</radical>. Evening air does a better job of holding on to drops of liquid like this, which is why everything is covered in dew in the morning."
+    },
+    {
+        "char": "子",
+        "level": 2,
+        "meaning": "Child",
+        "mnemonic": "This radical is made up of two barbs and one ground radical. If there are barbs on the ground, whom (especially) do you want to avoid that area? You want your <radical>child</radical> to avoid it, since children are so careless and often don't wear shoes. Imagine how bad you'd feel if you let a child walk around on top of these barbs! Pretty bad, I imagine."
+    },
+    {
+        "char": "小",
+        "level": 2,
+        "meaning": "Small",
+        "mnemonic": "You have fins and you have a barb. A fish that you can stick an entire barb through like this would have to be really <radical>small</radical>, since it's sticking through the whole fish body (which you can imagine by basing the body off the size of the fins compared to the already small barb.)"
+    },
+    {
+        "char": "弓",
+        "level": 2,
+        "meaning": "Bow",
+        "mnemonic": "This radical looks like a fancy composite <radical>bow</radical> people would use to shoot at targets and definitely not any normal living animals. See how the middle part is being pulled back? Imagine holding this bow and firing it at a target shaped like a giant alligator-crab monster."
+    },
+    {
+        "char": "尸",
+        "level": 2,
+        "meaning": "Flag",
+        "mnemonic": "See the <radical>flag</radical> in this radical? There's a pole with a flag on the end of it, blowing in the wind. Basically, this radical looks just like a flag."
+    },
+    {
+        "char": "彡",
+        "level": 2,
+        "meaning": "Hair",
+        "mnemonic": "These three streaks flowing off to the side are three strands of hair. Pretty easy to see and remember, right?"
+    },
+    {
+        "char": "五",
+        "level": 2,
+        "meaning": "Five",
+        "mnemonic": "If you use your imagination, this radical actually looks like the number \"5.\" You have to remove the vertical line in the bottom left, but once you do that, you have an easy way to remember that this radical means <radical>five</radical>."
+    },
+    {
+        "char": "天",
+        "level": 2,
+        "meaning": "Heaven",
+        "mnemonic": "There is a two radical and a person radical. The first level of a person's life is on earth. The second level (this level, which is why there's a two radical here) is in heaven. So when you see a person at level 2, you know they're in <radical>heaven</radical>."
+    },
+    {
+        "char": "手",
+        "level": 2,
+        "meaning": "Hand",
+        "mnemonic": "This one's a little tough to picture, but I believe in you. The barb in the middle is the wrist/arm. Then, there are four regular fingers coming off of it and then one big thumb (the slide radical at the top). So you have four fingers, a thumb, and a wrist. This is what makes up your crazy looking <radical>hand</radical>."
+    },
+    {
+        "char": "文",
+        "level": 2,
+        "meaning": "Writing",
+        "mnemonic": "This looks like a stool with a lid on it, but it's actually a <radical>writing</radical> desk. Do you see it? It's a nice, quiet place for writing. You can even see the pen sticking up in the middle. Wouldn't you want to do your writing here?"
+    },
+    {
+        "char": "月",
+        "level": 2,
+        "meaning": "Moon",
+        "mnemonic": "The <radical>moon</radical> is actually made of the sun, but it has little legs coming off of it leaning towards the left. Why? Because the moon is always running away from the sun as fast as it can. It doesn't want to get caught on fire, so it has to run to stay ahead!"
+    },
+    {
+        "char": "止",
+        "level": 2,
+        "meaning": "Stop",
+        "mnemonic": "There's a giant toe and a stick in the ground in front of you. You're driving your car toward them, but you don't see them until your lights hit them. What would these things cause you to do? Most likely <radical>stop</radical> your car right away."
+    },
+    {
+        "char": "水",
+        "level": 2,
+        "meaning": "Water",
+        "mnemonic": "There are drops of liquid coming out of both sides of this barb. You can imagine the barb being stuck into the ground then pulled out. When it is, <radical>water</radical> comes gushing out of both sides! That's why this radical is water."
+    },
+    {
+        "char": "火",
+        "level": 2,
+        "meaning": "Fire",
+        "mnemonic": "See the person radical here? It's got things coming off of it... what are those things—OH MY GOD IT'S <radical>FIRE</radical>!!! Help, help! Put the fire out!"
+    },
+    {
+        "char": "犬",
+        "level": 2,
+        "meaning": "Dog",
+        "mnemonic": "Remember the big guy that helped you remember the big radical? Now the big guy has something on his shoulder... what is that? You look and see that he has a <radical>dog</radical> up there, perched as if it were a parrot or a cat or something. Dogs aren't supposed to be up on people's shoulders like that, but for him? It works!"
+    },
+    {
+        "char": "王",
+        "level": 2,
+        "meaning": "King",
+        "mnemonic": "This radical is not something anyone can have. Only a <radical>king</radical> can wear this crown upon his head. This radical is the sign of kings. Imagine your favorite king wearing this on their head. It's a pretty distinctive shape—I think you can do it."
+    },
+    {
+        "char": "中",
+        "level": 2,
+        "meaning": "Middle",
+        "mnemonic": "There's a stick going right through the <radical>middle</radical> of someone's mouth! Imagine that mouth being yours. Measure the placement of the stick. Perfectly aligned, right in the middle. That's amazing, though to be honest, you probably have bigger problems than measuring the location of this stick in your mouth."
+    },
+    {
+        "char": "本",
+        "level": 2,
+        "meaning": "Book",
+        "mnemonic": "There's a cut right at the base of this tree. Why would someone cut down a tree? To make a <radical>book</radical> out of it! Imagine living in the old days when you'd have to cut down a tree yourself to write or read a book."
+    },
+    {
+        "char": "田",
+        "level": 2,
+        "meaning": "Rice Paddy",
+        "mnemonic": "Rice paddies are made up of fields with irrigation lines going between them. See the four rice paddies with water flowing between and around them? That's why this radical is <radical>rice paddy</radical>."
+    },
+    {
+        "char": "白",
+        "level": 2,
+        "meaning": "White",
+        "mnemonic": "Add a drop of the sun to something and it will turn it <radical>white</radical>. The sun is really strong, so even a single drop will burn anything white. Why do you think so many beaches are white? Even the drops of sunblock you use to stop the sun's rays is white. So when you think of sun drops, think white."
+    },
+    {
+        "char": "目",
+        "level": 2,
+        "meaning": "Eye",
+        "mnemonic": "See the iris in the middle of the eyeball? Remember that there are no round things in kanji, so square things take their place. That makes this a pretty realistic, square <radical>eye</radical>. You just have to squint with your real eyes a bit."
+    },
+    {
+        "char": "石",
+        "level": 2,
+        "meaning": "Stone",
+        "mnemonic": "There's a leaf growing out of a square thing (which is normally a mouth, but not this time). The leaf is growing out of a <radical>stone</radical>. I mean, obviously, because leaves don't grow out of mouths. I hope. Anyway, picture a stone in the middle of nature with a leaf growing out of it or just behind it and you'll never forget this radical!"
+    },
+    {
+        "char": "立",
+        "level": 2,
+        "meaning": "Stand",
+        "mnemonic": "Two sticks are propping up a lid. By doing this, they're making it <radical>stand</radical> up."
+    },
+    {
+        "char": "L",
+        "level": 6,
+        "meaning": "Lion",
+        "mnemonic": "This L-shaped radical is the <radical>lion</radical> radical, because \"L is for Lion.\" It also looks like a lion's mouth being opened really, really wide. Imagine a lion opening its mouth to yawn. It looks like this radical!"
+    },
+    {
+        "char": "匕",
+        "level": 3,
+        "meaning": "Spoon",
+        "mnemonic": "This radical looks like a <radical>spoon</radical>! Well, a spoon that's been bent a lot by an angry person or a psychic. Go grab a spoon and try to bend it into this shape. Then hold on to it so you'll never forget that this is the spoon radical!"
+    },
+    {
+        "char": "夂",
+        "level": 3,
+        "meaning": "Winter",
+        "mnemonic": "This radical looks like the evening radical but has an extra long stroke. That's because evenings are long in the <radical>winter</radical>. It gets dark super early.\r\n\r\n\r\n\r\n"
+    },
+    {
+        "char": "干",
+        "level": 3,
+        "meaning": "Dry",
+        "mnemonic": "You have two on a stick. Two what? Well, you can't tell because they're too <radical>dry</radical>. Someone put two somethings on this stick to dry, but they seem to have left them out for way too long. Was it meat? Fish? Cucumbers? You have no clue, but they're two very dry somethings, that's for sure."
+    },
+    {
+        "char": "广",
+        "level": 3,
+        "meaning": "Canopy",
+        "mnemonic": "This is a <radical>canopy</radical>. See the cloth draping down and the little point at the middle holding it up? You could sit under here and enjoy a bright, summer day without getting any sun!"
+    },
+    {
+        "char": "扌",
+        "level": 3,
+        "meaning": "Fingers",
+        "mnemonic": "This looks like the hand (<ja>手</ja>) radical, but smaller. That's because it's just the <radical>fingers</radical>. You don't always have room for a whole hand to be in a kanji, but there's always space for a few fingers."
+    },
+    {
+        "char": "元",
+        "level": 3,
+        "meaning": "Origin",
+        "mnemonic": "You have two legs making up this radical. Between two legs is where you came from, no matter how you look at it. These two legs are your <radical>origin</radical>."
+    },
+    {
+        "char": "心",
+        "level": 3,
+        "meaning": "Heart",
+        "mnemonic": "Take a good look at this one. It kind of looks like a <radical>heart</radical> (not the stereotypical Valentine’s Day heart, though). Think of a real heart. Basically, there’s a lump (the heart) in the middle, and three lines which make up the arteries that go in and out of the heart to keep you alive. This radical shows up a lot, so it shouldn’t be too hard to learn it as you go along. Remember, lump (heart) plus arteries equals a heart… like, a real heart, not the fake, pretty kind."
+    },
+    {
+        "char": "方",
+        "level": 3,
+        "meaning": "Direction",
+        "mnemonic": "This radical looks like a dude running off to the right. He's heading in a very distinct <radical>direction</radical>. Which direction was it again?"
+    },
+    {
+        "char": "毛",
+        "level": 3,
+        "meaning": "Fur",
+        "mnemonic": "Do you remember the hair radical? This is like that, except now the hair is attached to a tail. Animals don't usually have hair, though. Instead, they have <radical>fur</radical>."
+    },
+    {
+        "char": "父",
+        "level": 3,
+        "meaning": "Father",
+        "mnemonic": "There are fins covering the treasure making up this radical. You pull away the fins and start digging where the X is (because \"X\" marks where the treasure is, right?). When you dig down, instead of finding treasure, you find your <radical>father</radical>. The shock of this in your imagination should help you to remember the meaning of this radical!"
+    },
+    {
+        "char": "古",
+        "level": 3,
+        "meaning": "Old",
+        "mnemonic": "You have a cross on a mouth—that's a pretty religious mouth. Who speaks the most about religion? <radical>Old</radical> people, mostly. Also, think about the teachings of religion itself - also pretty old, age-wise. No matter how you look at it, everything about this radical is kind of \"old.\""
+    },
+    {
+        "char": "用",
+        "level": 3,
+        "meaning": "Task",
+        "mnemonic": "This looks a bit like a calendar with spaces for you to write in your <radical>task</radical>s for the day. See those blank sections? Make sure you write down your daily tasks, so you don't forget to do something important!"
+    },
+    {
+        "char": "矢",
+        "level": 3,
+        "meaning": "Arrow",
+        "mnemonic": "You have a really big gun. Why? Because only big guns will be able to shoot <radical>arrow</radical>s! Bullets are pretty small, so the guns that shoot them can be any size. But you need a big gun if you want to shove an arrow in it and then shoot it at your enemies."
+    },
+    {
+        "char": "戸",
+        "level": 3,
+        "meaning": "Door",
+        "mnemonic": "Where does a flag usually go? It goes over a <radical>door</radical>. I know the <ja>一</ja> radical usually means ground, but in this case we're going to say the flag is in the doorway (where the <ja>一</ja> is the top of the door)."
+    },
+    {
+        "char": "寸",
+        "level": 4,
+        "meaning": "Measurement",
+        "mnemonic": "Have you ever used one of those math compasses? This looks just like one of those because this is the <radical>measurement</radical> radical. Compasses are used to measure things, just like this."
+    },
+    {
+        "char": "ｲ",
+        "level": 4,
+        "meaning": "Leader",
+        "mnemonic": "This radical technically means person (like <ja>人</ja>), but we're going to shift the meaning a little bit. It's kind of like the person radical, but it's taller and skinnier, standing above the rest of those peons. That's why this is a <radical>leader</radical>, not a regular old person."
+    },
+    {
+        "char": "冖",
+        "level": 4,
+        "meaning": "Forehead",
+        "mnemonic": "Sure, this <radical>forehead</radical> is a bit square, but that's because it's Frankenstein's Monster's forehead. Also, did you notice that this is just the top part of the head (<ja>冂</ja>) radical? This is just the forehead part of that!"
+    },
+    {
+        "char": "也",
+        "level": 4,
+        "meaning": "Alligator",
+        "mnemonic": "See the mouth and teeth of this <radical>alligator</radical>, which is facing to the right? You wouldn't want to get your hand stuck in there, that's for sure."
+    },
+    {
+        "char": "宀",
+        "level": 4,
+        "meaning": "Roof",
+        "mnemonic": "This is a <radical>roof</radical>. You know it's a roof and not a forehead because there's a little chimney sticking out of the top. And foreheads definitely don't have chimneys."
+    },
+    {
+        "char": "弋",
+        "level": 4,
+        "meaning": "Ceremony",
+        "mnemonic": "This radical looks like a person with a long dress or train running behind them. That's because it's a bride or groom going to their wedding <radical>ceremony</radical>! You usually have to wear a long dress or a cape if you're at a ceremony. So when you see this radical, think of all the different ceremonies you might have to go to in your life and what you'll need to wear."
+    },
+    {
+        "char": "ネ",
+        "level": 4,
+        "meaning": "Spirit",
+        "mnemonic": "This looks just like the katakana character for ne. Ne for necromancer! That makes this a <radical>spirit</radical>, brought back from the grave. OooooOOoooOoo!"
+    },
+    {
+        "char": "支",
+        "level": 4,
+        "meaning": "Branch",
+        "mnemonic": "There is a cross growing out of this stool. It's <radical>branch</radical>ing off of it, if you will. The tree that this stool was made of is coming back to life in the form of a branch."
+    },
+    {
+        "char": "气",
+        "level": 4,
+        "meaning": "Energy",
+        "mnemonic": "This radical is shaped kind of like a dam. See the wall and the water pushing over the top? If this radical is a dam, then it must create a ton of <radical>energy</radical> as well!"
+    },
+    {
+        "char": "世",
+        "level": 4,
+        "meaning": "World",
+        "mnemonic": "There are no circles in kanji, remember? So imagine that these angles are really circles. A little circle in a big circle, with a line running through them. Why, it's the <radical>world</radical>. The world looks just like this, with continents on the globe and a line is the equator. Can you see it?"
+    },
+    {
+        "char": "皿",
+        "level": 4,
+        "meaning": "Plate",
+        "mnemonic": "This is a few <radical>plate</radical>s drying on a rack. They're stacked together in a line. Imagine reaching out and grabbing one of those plates for yourself."
+    },
+    {
+        "char": "竹",
+        "level": 4,
+        "meaning": "Bamboo",
+        "mnemonic": "See how tall the stalks are with little bushy things at the top? It kind of looks like <radical>bamboo</radical>, if you use your imagination."
+    },
+    {
+        "char": "糸",
+        "level": 4,
+        "meaning": "Thread",
+        "mnemonic": "There is something small in some poop. You lean in, carefully pull it out, and realize it's a <radical>thread</radical>. Why is there some thread in this small poop? Because it's cat poop. And cats love to eat thread when you aren't looking. And floss and hoodie strings and mouse tails. But this poop just has thread in it."
+    },
+    {
+        "char": "幺",
+        "level": 3,
+        "meaning": "Poop",
+        "mnemonic": "There's something sticking out of you while you're in private. It's <radical>poop</radical>! You can't just poop in public, that's illegal and gross in this day and age. So the next time something starts to come out of you when you're in private, think, \"Ah yes, it's poop.\""
+    },
+    {
+        "char": "耳",
+        "level": 4,
+        "meaning": "Ear",
+        "mnemonic": "This radical is a bit more elaborate than the eye, though similar. In fact, if you go blind, your <radical>ear</radical>s become one of your new senses of sight, which is why this is like another, somewhat modified, eye. You'll even notice little lines sticking out of the eye. That's because ears stick out more than eyes (<ja>目</ja>), which is why this radical is the ear radical."
+    },
+    {
+        "char": "虫",
+        "level": 4,
+        "meaning": "Insect",
+        "mnemonic": "There is something private in your mouth. You're keeping it private because you don't want other people to judge you. Why? Because it's an <radical>insect</radical>. You like to eat insects, but society seems to think it's wrong. Don't worry, friend. Someday the rest of the world will embrace eating insects like you have."
+    },
+    {
+        "char": "艹",
+        "level": 4,
+        "meaning": "Flowers",
+        "mnemonic": "See the little things sticking out of the ground? Those little things are pretty little <radical>flowers</radical>. You know they're flowers and not, say, grass, because they're spaced out. You'll learn grass later, and it will be less spaced out, but somewhat similar to this, so keep that in mind!"
+    },
+    {
+        "char": "見",
+        "level": 4,
+        "meaning": "See",
+        "mnemonic": "There's an eyeball on top of some legs. When your eyes get taken places (on legs, in this case), your eyes are <radical>see</radical>ing those things. That's why this radical means see."
+    },
+    {
+        "char": "赤",
+        "level": 4,
+        "meaning": "Red",
+        "mnemonic": "There are some legs and fins under the dirt. Imagine yourself looking at all of these severed limbs... there's blood everywhere. No matter how deep you dig, everything is stained <radical>red</radical>."
+    },
+    {
+        "char": "車",
+        "level": 4,
+        "meaning": "Car",
+        "mnemonic": "Doesn't this look like a top-down view of the frame of a <radical>car</radical>? There are the rods that make up the base of the car and things for the wheels to go on. That's why this radical is the car radical."
+    },
+    {
+        "char": "貝",
+        "level": 4,
+        "meaning": "Shellfish",
+        "mnemonic": "There's a giant eye on top of some fins. Imagine this giant eye to be on top of a clam or a mussel. It has little fins, which it runs around on, escaping from your every attempt to capture it. That's why this is the <radical>shellfish</radical> radical."
+    },
+    {
+        "char": "足",
+        "level": 4,
+        "meaning": "Foot",
+        "mnemonic": "Do you see the dude doing a flying dragon kick to the right? What does he hit the target with? Obviously it's his <radical>foot</radical>."
+    },
+    {
+        "char": "不",
+        "level": 4,
+        "meaning": "Not",
+        "mnemonic": "If you see this radical in a kanji, you'll want to think of the opposite of whatever other radicals there are. It looks a lot like \"below,\" but guess what? It's <radical>not</radical> the below radical. It's just not."
+    },
+    {
+        "char": "士",
+        "level": 4,
+        "meaning": "Samurai",
+        "mnemonic": "The <radical>samurai</radical> radical looks a lot like the dirt radical. The difference is in the top horizontal line. For samurai, the top is longer because he's holding swords. Dirt can't really hold anything because its arms are too short. So when you see this radical, think: long arms for some long swords. That's a samurai!"
+    },
+    {
+        "char": "米",
+        "level": 4,
+        "meaning": "Rice",
+        "mnemonic": "Not to be confused with a rice paddy (<ja>田</ja>). This is just raw <radical>rice</radical>, like the grain that grows out of the ground when rice is raw and fresh. When rice is particularly ripe, it'll kind of look like this at the top of the stalks. See the long leaves with the little rice tufts at the top? That's why this radical is \"rice.\""
+    },
+    {
+        "char": "彳",
+        "level": 4,
+        "meaning": "Loiter",
+        "mnemonic": "The leader (<ja>ｲ</ja>) radical has a little something extra on top of him, holding him down, holding him back. It's causing him to wait... it's causing him to <radical>loiter</radical>."
+    },
+    {
+        "char": "巴",
+        "level": 4,
+        "meaning": "Bed",
+        "mnemonic": "You'll have to complete the line on the right side in your mind, but see the rectangle <radical>bed</radical> and the pillows? This is totally a bed. That missing line is where you pulled back the sheets when you got up this morning."
+    },
+    {
+        "char": "兀",
+        "level": 4,
+        "meaning": "Pi",
+        "mnemonic": "Obviously, this looks just like the good ol' 3.14 something-something all people are supposed to learn about. It's the math symbol that has to do with circles... <radical>pi</radical>!"
+    },
+    {
+        "char": "巾",
+        "level": 3,
+        "meaning": "Towel",
+        "mnemonic": "There's something draped over that stick. It's a <radical>towel!</radical>! Imagine taking a wet towel and hanging it over a railing or a stick so it won't get all musty and gross. It would look just like this."
+    },
+    {
+        "char": "氵",
+        "level": 5,
+        "meaning": "Tsunami",
+        "mnemonic": "You've seen one drop (<ja>丶</ja>), but what happens when you triple this and have three drops, which happens to be the maximum number of drops you can have? You end up with a devastating <radical>tsunami</radical>, because there's too much water and nowhere for it to go. Just think of this as a lot of water. When you have a lot of water, you have a tsunami."
+    },
+    {
+        "char": "耂",
+        "level": 5,
+        "meaning": "Coffin",
+        "mnemonic": "See the slide going into the dirt? That's where they throw your body when you die. It's actually a <radical>coffin</radical>!"
+    },
+    {
+        "char": "ヨ",
+        "level": 5,
+        "meaning": "Wolverine",
+        "mnemonic": "You know <radical>Wolverine</radical> from the X-Men? He has three claws that come out of his hand whenever he needs to fight, not at all unlike the radical you see here."
+    },
+    {
+        "char": "廾",
+        "level": 5,
+        "meaning": "Twenty",
+        "mnemonic": "You have <ja>十</ja> plus <ja>十</ja>... what do you get when you add these two kanji together? You get <radical>twenty</radical>."
+    },
+    {
+        "char": "毋",
+        "level": 5,
+        "meaning": "Window",
+        "mnemonic": "See the criss-cross in the pseudo-square shape? That's the frames of a big <radical>window</radical> you can look out of. It's not perfectly shaped like a rice field, it's more artistic. That's why this is a window and <ja>田</ja> is not."
+    },
+    {
+        "char": "肉",
+        "level": 5,
+        "meaning": "Meat",
+        "mnemonic": "Inside your head, you can only think about people, people, and more people. This is bad, because really all you want is their <radical>meat</radical>, because you're some kind of sick cannibal... you monster. When you think of \"people\" in your head, you're really just thinking about more meat you can eat."
+    },
+    {
+        "char": "自",
+        "level": 5,
+        "meaning": "Self",
+        "mnemonic": "That little fleck / drop on your eye is what makes you unique. It's what makes you your <radical>self</radical>. It's you, you know?"
+    },
+    {
+        "char": "色",
+        "level": 5,
+        "meaning": "Color",
+        "mnemonic": "The bed you get in prison is the only thing with <radical>color</radical> you'll see while you're there. Picture a dark, dank cell. Maybe a toilet too. Now picture a bright, colorful bed against the wall. This is the only joy you have."
+    },
+    {
+        "char": "行",
+        "level": 5,
+        "meaning": "Go",
+        "mnemonic": "You have the radicals for loiter, two, and barb. Someone who uses two barbs on you while you're loitering really wants you to <radical>GO</radical>!! GO on, stop loitering outside of my convenience store, ya dang kids!"
+    },
+    {
+        "char": "西",
+        "level": 5,
+        "meaning": "West",
+        "mnemonic": "You have pi coming out of a mouth. \"3.14,\" it says. We must take the secret of the circle with us, away from here. We must go to a magical place where nobody will persecute us for our math... a place to the <radical>West</radical>!"
+    },
+    {
+        "char": "可",
+        "level": 5,
+        "meaning": "Lip Ring",
+        "mnemonic": "There's something hooked going into a mouth. Rather than a hook, though, it's a <radical>lip ring</radical>. They used to use fish hooks and nails in the old days. (Glad we don't live in those times anymore!)"
+    },
+    {
+        "char": "⻌",
+        "level": 5,
+        "meaning": "Scooter",
+        "mnemonic": "This radical is a <radical>scooter</radical>. See the handlebars and the little light? And there's a platform at the bottom you can stand or sit on (if it's one of those nice motorized ones)."
+    },
+    {
+        "char": "斤",
+        "level": 5,
+        "meaning": "Axe",
+        "mnemonic": "This is a strange looking axe, I know. But think of it this way: the letter \"T\" is in the cliff. What is the \"T\"? Of course it has to be Mr. T, who's super awesome. Think of Mr. T wielding a terrifying axe, running after you screaming, \"I pity the fool!\" while trying to chop you down. That makes for a pretty terrifying <radical>axe</radical>."
+    },
+    {
+        "char": "厂",
+        "level": 4,
+        "meaning": "Cliff",
+        "mnemonic": "See the <radical>cliff</radical>? It's facing towards the west. What ocean is to your west? That's the direction this cliff is facing."
+    },
+    {
+        "char": "言",
+        "level": 5,
+        "meaning": "Say",
+        "mnemonic": "There are a bunch of sound waves coming out of a mouth. Those waves represent the things you <radical>say</radical>."
+    },
+    {
+        "char": "金",
+        "level": 5,
+        "meaning": "Gold",
+        "mnemonic": "There's two sets of spikes underneath that hat. It's actually a trap, to prevent anyone from coming in and stealing your <radical>gold</radical>. Why else would you make a trap? Everyone likes to protect their gold."
+    },
+    {
+        "char": "雨",
+        "level": 5,
+        "meaning": "Rain",
+        "mnemonic": "The towel is getting soaked with drops of liquid. That's because it's <radical>rain</radical>ing. Get your towels and other clothes inside before they get soaked through from this rain!"
+    },
+    {
+        "char": "青",
+        "level": 5,
+        "meaning": "Blue",
+        "mnemonic": "You have life on top of the moon (ignore that life is missing its little slide on the left side). What would life on the moon look like? Well, first of all, they have no air, so they probably look pretty <radical>blue</radical> from asphyxiation. When you meet them, it turns out you're right. They're a civilization of blue people. Imagine them all living up there, being blue and Smurfy."
+    },
+    {
+        "char": "冋",
+        "level": 5,
+        "meaning": "Mustache",
+        "mnemonic": "See the <radical>mustache</radical> going around the mouth? I wish I could grow a sweet mustache like this."
+    },
+    {
+        "char": "乍",
+        "level": 5,
+        "meaning": "Key",
+        "mnemonic": "This is a very oddly shaped <radical>key</radical>, but it's a key nonetheless."
+    },
+    {
+        "char": "冫",
+        "level": 5,
+        "meaning": "Ice",
+        "mnemonic": "Remember the radical for drop (of liquid)? This is two drops instead of one. When you see two drops, you should think, \"the next stage of water.\" What is the next stage? Why, that is <radical>ice</radical>."
+    },
+    {
+        "char": "走",
+        "level": 5,
+        "meaning": "Run",
+        "mnemonic": "See the person <radical>run</radical>ning? Don't confuse this with foot (<ja>足</ja>), though. The head is just a streak because this person is running so fast."
+    },
+    {
+        "char": "里",
+        "level": 5,
+        "meaning": "Village",
+        "mnemonic": "This is a rice paddy with dirt around it. This is the perfect place to set up a <radical>village</radical>. You have a place to farm and some dirt to live on. What else could you need?"
+    },
+    {
+        "char": "牛",
+        "level": 2,
+        "meaning": "Cow",
+        "mnemonic": "There's a cross and a gun, with the gun going through the cross. You're using the cross to stabilize your gun, because you need to shoot a <radical>cow</radical> for dinner. You bring your cross because you need to bless the cow once you've killed it (and it's also a good stand for your gun). Poor cow."
+    },
+    {
+        "char": "凵",
+        "level": 6,
+        "meaning": "Box",
+        "mnemonic": "This <radical>box</radical> is open. There could be any number of things inside, but for now all you need to know is the meaning of this radical, which is box."
+    },
+    {
+        "char": "刂",
+        "level": 6,
+        "meaning": "Knife",
+        "mnemonic": "This is a <radical>knife</radical>. See how it has two sharp sides? And there's a little handle at the bottom for the... well the handle. Be careful you don't cut yourself!"
+    },
+    {
+        "char": "斗",
+        "level": 6,
+        "meaning": "Ladle",
+        "mnemonic": "There's a <radical>ladle</radical> scooping up two drops of liquid. See the handle and the scoop part of the ladle? Imagine ladling some water into your mouth. Mmm."
+    },
+    {
+        "char": "ホ",
+        "level": 6,
+        "meaning": "Angel",
+        "mnemonic": "First of all, there's a cross making up the middle, which automatically makes this a religion-based radical. That cross is the frame of someone's body and the things coming off of it are wings. This is an <radical>angel</radical>."
+    },
+    {
+        "char": "灬",
+        "level": 6,
+        "meaning": "Boil",
+        "mnemonic": "This radical looks like the fire from the burner of a stove or the steam coming up off of a pot of water. That's because this is the <radical>boil</radical> radical. You need to boil a bunch of water over some flames. This radical looks like all of those parts at once!"
+    },
+    {
+        "char": "歹",
+        "level": 6,
+        "meaning": "Yakuza",
+        "mnemonic": "The evening radical is under the ground. Who's doing things underground at night? The <radical>Yakuza</radical>. Picture Yakuza members sneaking around in the subway, or in the sewers. They're definitely up to no good down there."
+    },
+    {
+        "char": "未",
+        "level": 6,
+        "meaning": "Jet",
+        "mnemonic": "This is like one of those <radical>jet</radical>s that have the little nose-wings going on too. Imagine you're looking at the jet from the top down, this is what it would look like. It's also why this is the jet radical."
+    },
+    {
+        "char": "禾",
+        "level": 6,
+        "meaning": "Grain",
+        "mnemonic": "This is a tree with a slide cutting off the top. What do you cut off the top of trees and plants? The <radical>grain</radical>s. Imagine taking a sickle and slicing the grains off rice or wheat. The plant you leave behind will look like this radical. It's a sign that you got a grain of some sort from it."
+    },
+    {
+        "char": "羊",
+        "level": 6,
+        "meaning": "Sheep",
+        "mnemonic": "This is a <radical>sheep</radical> and you're looking at it from above. See the two ears and the body of the sheep going back (with all its wool poking out to the side) and then the little tail sticking out the back. What a cute sheep!"
+    },
+    {
+        "char": "血",
+        "level": 6,
+        "meaning": "Blood",
+        "mnemonic": "There's a little speck of something on your plate (<ja>皿</ja>). \"What is that?\" you ask. Oh no... that speck is <radical>BLOOD</radical>!!! I hope it's blood from a nosebleed you suddenly have and not someone else's blood. (Your waiter is probably gonna get fired, btw.) At least your platelets should stop the bleeding soon. Haha, get it? PLATE-lets? Japanese blood jokes."
+    },
+    {
+        "char": "長",
+        "level": 6,
+        "meaning": "Long",
+        "mnemonic": "You have a modified key radical on top of the kick radical. You kick the key as far as you can, then measure the distance. How <radical>long</radical> did it travel? How long will it take you to find it? How long will you be in trouble for kicking a key into the woods?"
+    },
+    {
+        "char": "食",
+        "level": 6,
+        "meaning": "Eat",
+        "mnemonic": "You put on your hat and go outside to kick something white. It's a big white goose and you killed it with your kick. That's because you're going to cook and <radical>eat</radical> it. Yum!"
+    },
+    {
+        "char": "ム",
+        "level": 2,
+        "meaning": "Private",
+        "mnemonic": "This is a little triangle that's almost completely closed off. When you want to be alone, you hide in a place where you can be in <radical>private</radical>. That's why this is the private radical. You're closing yourself off to the rest of the world, with just a little peephole."
+    },
+    {
+        "char": "マ",
+        "level": 6,
+        "meaning": "Mama",
+        "mnemonic": "This radical is just like the katakana character \"ma\" (<ja>マ</ja>). So let's keep things simple and make the radical <radical>mama</radical>."
+    },
+    {
+        "char": "欠",
+        "level": 6,
+        "meaning": "Lack",
+        "mnemonic": "There's a person in a prison. Why is this person in prison? Because they <radical>lack</radical> the stuff humans need to be around other humans. If you're lacking something (kindness, self-control, etc.) you may do something that makes other people put you in prison. Try to fix what you lack so this won't happen to you."
+    },
+    {
+        "char": "占",
+        "level": 6,
+        "meaning": "Fortune",
+        "mnemonic": "Someone has a toe in their mouth. They are a fortune teller telling your <radical>fortune</radical>. But for her to do it, she has to take one of your toes and taste it. This better be a good fortune for you to let someone put your foot in their mouth."
+    },
+    {
+        "char": "犭",
+        "level": 6,
+        "meaning": "Animal",
+        "mnemonic": "This looks like a tail with some hairs coming off of it. It shouldn't be confused with fingers though, because it's curved, and the things sticking out are more erratic, like hair or fur would be. That's why this radical is the <radical>animal</radical> radical."
+    },
+    {
+        "char": "卩",
+        "level": 7,
+        "meaning": "Stamp",
+        "mnemonic": "This radical looks a little like the letter P, right? It's a P printed onto something... wait, it's not printed, it's a <radical>stamp</radical> that's been put on the paper. Peter Parker likes to use stamps instead of pens."
+    },
+    {
+        "char": "夫",
+        "level": 7,
+        "meaning": "Husband",
+        "mnemonic": "The radicals ground and big make up this radical. There's a big guy on the ground... who is that big guy? Embarrassingly, it's your <radical>husband</radical>. Feel the shame that he got knocked down on the ground. By what? Who? How? (It doesn't matter.)"
+    },
+    {
+        "char": "氏",
+        "level": 7,
+        "meaning": "Clan",
+        "mnemonic": "This looks like a little tamagotchi or (if you aren't a 90s kid) a duck. What do both of these critters have in common? They have really crazy <radical>clan</radical> followings. And the people who enjoy them (tiny pocket games or watching quacking duckies) create clans that get together and share their experiences. Which clan are you a part of?"
+    },
+    {
+        "char": "矛",
+        "level": 21,
+        "meaning": "Spear",
+        "mnemonic": "Your mama is carrying some kind of elaborate weapon. You look closely and see that it's a <radical>spear</radical>. The pointy end is to the right, and there are some decorations hanging off it. It's a very fancy spear, and you wonder where your mama got it."
+    },
+    {
+        "char": "舟",
+        "level": 7,
+        "meaning": "Boat",
+        "mnemonic": "This looks like a <radical>boat</radical> coming toward you in the water. See the billowing sail and the reflection off the water? That's what boats look like."
+    },
+    {
+        "char": "魚",
+        "level": 7,
+        "meaning": "Fish",
+        "mnemonic": "In a prison on a rice paddy they're boiling something. What do you think it is? <radical>Fish</radical>! What goes better with rice? What's easy to find, making it cheap prison food? Fish, of course!"
+    },
+    {
+        "char": "鳥",
+        "level": 7,
+        "meaning": "Bird",
+        "mnemonic": "See the cool wing on the bottom? See the head with the neat feather coming out of the top? This is a <radical>bird</radical>. Tweet tweet!"
+    },
+    {
+        "char": "黄",
+        "level": 7,
+        "meaning": "Yellow",
+        "mnemonic": "Flowers that grow out of the ground of a rice paddy after you bury fins there will grow <radical>yellow</radical>. Why? Because yellow is the color of a fish's soul, so planting flowers over their fins will turn them into a nice, pretty yellow. "
+    },
+    {
+        "char": "黒",
+        "level": 7,
+        "meaning": "Black",
+        "mnemonic": "If you boil a village everything will turn <radical>black</radical>. Mostly because you're a crazed murderer, but more so because when you boil a village all the roads melt and coat everything in black tar. Picture it! It looks like Pompeii. (Oof, too soon?)"
+    },
+    {
+        "char": "主",
+        "level": 4,
+        "meaning": "Master",
+        "mnemonic": "This king has a drop of water floating above his head. That's because he's not just a king, he's the <radical>master</radical> of water. Master of elements. Master of ALL THINGS!"
+    },
+    {
+        "char": "会",
+        "level": 5,
+        "meaning": "Meet, Meeting",
+        "mnemonic": "Under the hat there are two people <radical>meet</radical>ing in private. Look at them huddled up in there. They must have a reason to want to meet in such a private place, but that's not for you to judge. Maybe next time you have to meet with someone you'll hide under a hat with them too."
+    },
+    {
+        "char": "首",
+        "level": 6,
+        "meaning": "Neck",
+        "mnemonic": "There are some horns on the ground that you want for yourself. You pick them up and you attach them to your <radical>neck</radical>. Imagine these horns sticking out of your neck. No one can slit your throat now that your neck is protected."
+    },
+    {
+        "char": "ユ",
+        "level": 8,
+        "meaning": "Hook",
+        "mnemonic": "There's a flat line for where the hand was cut off. In it is a <radical>hook</radical> like a pirate might have. Yarrrr."
+    },
+    {
+        "char": "巳",
+        "level": 8,
+        "meaning": "Snake",
+        "mnemonic": "There's two ways to remember this one. First, you could look at this and see it's a coiled up <radical>snake</radical>. Or, if you want, you can imagine it as a snake head, with its face facing to the right (see its open mouth?). We may use either when learning a kanji, but for now you can pick the one that fits best with your memorization style. Just make sure you get to snake when you see this radical.\n\n*Also note that sometimes the coil isn't totally completed (where it connects in the middle of the vertical line)."
+    },
+    {
+        "char": "云",
+        "level": 8,
+        "meaning": "Cloud",
+        "mnemonic": "This is the radical for <radical>cloud</radical>. See how the cloud is puffy on the bottom but has two lines up top? That's because a plane flew through it. If humans didn't invent planes, this cloud radical might look different. Really makes you think, huh?"
+    },
+    {
+        "char": "殳",
+        "level": 8,
+        "meaning": "Weapon",
+        "mnemonic": "Stick a table on top of a stool and you end up with a very dangerous <radical>weapon</radical>. Imagine hitting someone with this thing! Or, even better, imagine making someone sit on it. They'd be crushed mentally and emotionally and whatnot. Now that's a scary weapon."
+    },
+    {
+        "char": "比",
+        "level": 8,
+        "meaning": "Compare",
+        "mnemonic": "This radical is made up of two slightly different versions of the spoon radical (which you should already know). Look closely at these two spoons. <radical>Compare</radical> their differences. Like one of those magazines where you compare two similar pictures. But this time it's with spoons."
+    },
+    {
+        "char": "片",
+        "level": 30,
+        "meaning": "One Sided",
+        "mnemonic": "This looks a bit like a waiter walking toward you with a platter in their hands... but wait. It's only half of a waiter. It's a <radical>one sided</radical> waiter!"
+    },
+    {
+        "char": "罒",
+        "level": 8,
+        "meaning": "Net",
+        "mnemonic": "This is a <radical>net</radical>, spread out over the water. Imagine all the fish you can catch in this net!"
+    },
+    {
+        "char": "釆",
+        "level": 8,
+        "meaning": "Sickle",
+        "mnemonic": "Most of this radical is just the rice radical, but the top part is something coming to cut the rice from its stalk. That, my friend, is the <radical>sickle</radical>. See how the rice is still there? That's because it's in motion. The sickle is literally doing the cutting RIGHT NOW! (And don't confuse this with the grain <ja>禾</ja> radical!)"
+    },
+    {
+        "char": "馬",
+        "level": 8,
+        "meaning": "Horse",
+        "mnemonic": "Don't confuse this radical with the bird <ja>鳥</ja> radical. It looks similar, with the wing on the bottom and the shape on top, but it doesn't have a feather sticking out of the top of its head and it has a long, thick neck. So while it moves fast like it has wings, it's no bird, it's a <radical>horse</radical>."
+    },
+    {
+        "char": "介",
+        "level": 9,
+        "meaning": "Jammed In",
+        "mnemonic": "This radical kind of looks like an arrow, but not an ordinary one. It's curvy and forced, right? Like it's trying to tell you something is being <radical>jammed in</radical> to wherever it's pointing."
+    },
+    {
+        "char": "史",
+        "level": 9,
+        "meaning": "History",
+        "mnemonic": "A mouth that's talking about treasure... that sounds more like ancient <radical>history</radical> to me. Just because there was treasure buried all over the place back in history, doesn't mean it wasn't found by now. Don't let history take over your life, like it has the person who owns this mouth."
+    },
+    {
+        "char": "癶",
+        "level": 9,
+        "meaning": "Tent",
+        "mnemonic": "Kind of a strange <radical>tent</radical>, I'll admit, but one that will protect you from things trying to get in (that's why it has all the spikes). It's the best you can do, considering you're in a cloth/plastic building."
+    },
+    {
+        "char": "周",
+        "level": 7,
+        "meaning": "Circumference",
+        "mnemonic": "Put some dirt around your head and in your mouth to figure out your head's <radical>circumference</radical>. When you pull your head out you'll have the perfect shape of your head, making measuring the circumference easy. Oh, and the dirt in your mouth? That's just for the taste."
+    },
+    {
+        "char": "穴",
+        "level": 8,
+        "meaning": "Hole",
+        "mnemonic": "You have a roof on top of what looks like a volcano. What is the roof covering on the top of the volcano? Why, it's definitely covering the <radical>hole</radical> at the top. I guess someone thought if they built a roof on the volcano hole, none of the lava could come out."
+    },
+    {
+        "char": "开",
+        "level": 5,
+        "meaning": "Lantern",
+        "mnemonic": "Think of an old-style <radical>lantern</radical>. It's on top of a few legs (you can only see two from this angle) and it's in a box shaped holder at the top. You can imagine these lining the streets before electricity, right? That's why this radical is a lantern."
+    },
+    {
+        "char": "易",
+        "level": 8,
+        "meaning": "Easy",
+        "mnemonic": "If you have wings, flying to the sun will be <radical>easy</radical>. If you try to get there with your wingless, human-body it will not be so easy."
+    },
+    {
+        "char": "勿",
+        "level": 7,
+        "meaning": "Wing",
+        "mnemonic": "See the <radical>wing</radical>? It's kind of like a bat wing with webbing. Either way, it's just a wing."
+    },
+    {
+        "char": "舌",
+        "level": 6,
+        "meaning": "Tongue",
+        "mnemonic": "Something is sticking out of a mouth. Something with a thousand little tastebuds on it. It's your <radical>tongue</radical>!"
+    },
+    {
+        "char": "咅",
+        "level": 9,
+        "meaning": "Clown",
+        "mnemonic": "<radical>Clown</radical>s do weird tricks. One trick they might do is stand on their mouth (or stand on someone else's mouth). Imagine a clown doing either one of these things to remember this radical: clown."
+    },
+    {
+        "char": "阝",
+        "level": 9,
+        "meaning": "Building",
+        "mnemonic": "This radical looks like a curvy letter B. What does B stand for? <radical>Building</radical>! This radical is used in a lot of kanji to mark that it's a building, or that it has something to do with buildings."
+    },
+    {
+        "char": "几",
+        "level": 7,
+        "meaning": "Table",
+        "mnemonic": "What happens when you put a flat surface on top of a pair of legs? You get a <radical>table</radical>."
+    },
+    {
+        "char": "辛",
+        "level": 9,
+        "meaning": "Spicy",
+        "mnemonic": "You're standing up on top of a cross. Why? Because you ate something so <radical>spicy</radical> that it caused you to beg Jesus for mercy. You need to save your mouth from the spicy flames. To make sure he hears you, you stand up on the closest cross. Make sure to feel how spicy this is in your mouth to remember it better!"
+    },
+    {
+        "char": "圣",
+        "level": 10,
+        "meaning": "Tombstone",
+        "mnemonic": "There is a stool sticking out of the dirt. You walk up and realize it has writing on it. It's actually a <radical>tombstone</radical>. You can sit on it and remember the people who are below the dirt now."
+    },
+    {
+        "char": "各",
+        "level": 10,
+        "meaning": "Kiss",
+        "mnemonic": "When you combine winter and mouth you get... winter mouth! Or at least a mouth that tastes like winter because it's coming in for a <radical>kiss</radical>. Before you go kissing people you eat mints, right? It's common courtesy so you don't give them a mouth full of bad breath. So when you think of a winter mouth, think of a nice, minty kiss!"
+    },
+    {
+        "char": "豆",
+        "level": 10,
+        "meaning": "Beans",
+        "mnemonic": "This radical has a pod (the square in the middle) between the ground and some roots. That pod is going to turn into a plant someday. What plant will it be? Great big <radical>beans</radical>, like the ones from Jack and the Beanstalk."
+    },
+    {
+        "char": "酉",
+        "level": 10,
+        "meaning": "Alcohol",
+        "mnemonic": "See the west radical on top of the mouth radical? Think of the mouth of someone from the wild west (like in a cowboy movie). What is always in their mouth? It's <radical>alcohol</radical>."
+    },
+    {
+        "char": "辰",
+        "level": 10,
+        "meaning": "Landslide",
+        "mnemonic": "If you kick a cliff you'll start a <radical>landslide</radical>! Oh no!"
+    },
+    {
+        "char": "頁",
+        "level": 10,
+        "meaning": "Geoduck",
+        "mnemonic": "This radical consists of a shellfish with a leaf on it. What is it? The mysterious <radical>geoduck</radical>. It's a very distinct clam-like creature. If you don't know what a geoduck is, look it up. It's quite bizarre. It has a long, leaf-shaped protrusion coming out of its shell body."
+    },
+    {
+        "char": "曲",
+        "level": 10,
+        "meaning": "Music",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>music</radical>."
+    },
+    {
+        "char": "丙",
+        "level": 10,
+        "meaning": "Dynamite",
+        "mnemonic": "Doesn't this radical look like one of those old-fashioned <radical>dynamite</radical> plunger things that gets pushed to set the fuse? That makes this dynamite!"
+    },
+    {
+        "char": "疒",
+        "level": 10,
+        "meaning": "Sick",
+        "mnemonic": "This is the canopy radical with ice running down the back. If you hang out in a cold canopy like this you'll definitely get <radical>sick</radical>. Imagine being sick and alone inside a cold canopy. Brrrr, oh no... ACHOO!"
+    },
+    {
+        "char": "重",
+        "level": 9,
+        "meaning": "Heavy",
+        "mnemonic": "This radical is made up of a thousand villages. If you tried to lift them, what would it be? <radical>Heavy</radical>! And probably crazy. But just remember how heavy a thousand villages would be."
+    },
+    {
+        "char": "令",
+        "level": 11,
+        "meaning": "Orders",
+        "mnemonic": "The \"Hat-Ground\" stamp is on this envelope. That can only mean one thing: <radical>Orders</radical> from HQ. Imagine this stamp on some orders for you—read the orders out loud to help yourself remember that this hat-ground stamp means \"orders\" and nothing else."
+    },
+    {
+        "char": "申",
+        "level": 11,
+        "meaning": "Humble",
+        "mnemonic": "This radical is the same as the kanji you learned earlier, but the meaning is a little different. It's not just for saying things humbly, it's for being <radical>humble</radical> in general. When you see this radical, think about being humble."
+    },
+    {
+        "char": "兄",
+        "level": 11,
+        "meaning": "Older Brother",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>older brother</radical>."
+    },
+    {
+        "char": "寺",
+        "level": 7,
+        "meaning": "Temple",
+        "mnemonic": "This radical looks kind of like a <radical>temple</radical> on a hill, don't you think? With all the layers, n' stuff? Just picture that first horizontal line as the base of the ornate temple balancing on that hill underneath it and you'll have no problem remembering this radical."
+    },
+    {
+        "char": "及",
+        "level": 11,
+        "meaning": "Escalator",
+        "mnemonic": "Do you remember stairs (<ja>乃</ja>)? This radical is a lot like that, but it has extra bits and pieces. It's still stairs... but it's more complicated. And faster! That's why it's an <radical>escalator</radical> instead!"
+    },
+    {
+        "char": "戈",
+        "level": 11,
+        "meaning": "Drunkard",
+        "mnemonic": "This is a ceremony radical with a slide radical. Why would someone be sliding on the floor at a ceremony? If they're a <radical>drunkard</radical>, that's why! People love to drink at ceremonies. And there's always at least one drunkard who takes it too far and slides across the floor doing the worm."
+    },
+    {
+        "char": "皮",
+        "level": 11,
+        "meaning": "Skin",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>skin</radical>."
+    },
+    {
+        "char": "艮",
+        "level": 11,
+        "meaning": "Root",
+        "mnemonic": "If the sun is out and you kick the ground, you'll hit a <radical>root</radical>. Roots try to come up when the sun is bright. But if you kick too hard, the root will trip you, so watch out!"
+    },
+    {
+        "char": "音",
+        "level": 11,
+        "meaning": "Sound",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>sound</radical>."
+    },
+    {
+        "char": "少",
+        "level": 11,
+        "meaning": "Few",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>few</radical>."
+    },
+    {
+        "char": "単",
+        "level": 11,
+        "meaning": "Simple",
+        "mnemonic": "There's some stuff growing out of this rice paddy and there is a cross guarding over it. This rice paddy is owned by a <radical>simple</radical> family that lives the simple life. They grow their rice, pray to their god, and everything is nice and simple. Ahh, I'm jealous."
+    },
+    {
+        "char": "乃",
+        "level": 10,
+        "meaning": "Stairs",
+        "mnemonic": "See the <radical>stairs</radical> shape on the right side? Also note it's being held up by a pillar or beam or something, to make sure the stairs don't just collapse as you walk up them."
+    },
+    {
+        "char": "早",
+        "level": 12,
+        "meaning": "Early",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>early</radical>."
+    },
+    {
+        "char": "弟",
+        "level": 12,
+        "meaning": "Younger Brother",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>younger brother</radical>."
+    },
+    {
+        "char": "者",
+        "level": 12,
+        "meaning": "Someone",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>someone</radical>."
+    },
+    {
+        "char": "亜",
+        "level": 12,
+        "meaning": "Asia",
+        "mnemonic": "This radical looks like a helicopter on the ground. Or a TIE fighter from above (going to the side). Either way, it's okay because you know where both helicopters and TIE fighters are made: <radical>Asia</radical>! Most aircraft are made in Asia these days, ya know?"
+    },
+    {
+        "char": "其",
+        "level": 12,
+        "meaning": "Crab",
+        "mnemonic": "This looks like the shellfish radical but it's spikier and crazier. Which shelled creature has spikes and pincers? The mighty <radical>crab</radical>!"
+    },
+    {
+        "char": "廴",
+        "level": 12,
+        "meaning": "Yoga",
+        "mnemonic": "This looks like someone taking really huge steps and stretching themselves out. Does that sound like anything you know? It should, because it's what you do in <radical>yoga</radical>. Stretch out your legs and arms until you look like this radical. Great! You're doing yoga now!"
+    },
+    {
+        "char": "示",
+        "level": 12,
+        "meaning": "Jackhammer",
+        "mnemonic": "Do you see the handles on the top and the barb on the bottom? It's a <radical>jackhammer</radical>. How can you tell? The two diagonal lines on the side show the motion of the jackhammer going up and down really fast, doing what jackhammers do. BBBHHRZHHHHRHHRZHZHHZH JUJUJUJUJU."
+    },
+    {
+        "char": "免",
+        "level": 12,
+        "meaning": "Excuse",
+        "mnemonic": "This radical consists of some legs carrying the sun out of prison. Those legs are yours. When the police stop you, though, what's your <radical>excuse</radical>? Come up with one and say it out loud, starting with, \"My excuse is...\""
+    },
+    {
+        "char": "非",
+        "level": 17,
+        "meaning": "Criminal",
+        "mnemonic": "You think you see some legs behind those bars. Who gets put behind bars? Only <radical>criminal</radical>s. This criminal is pretty tall, since you only see his legs behind there."
+    },
+    {
+        "char": "生",
+        "level": 3,
+        "meaning": "Life",
+        "mnemonic": "This radical consists of a cow radical with the ground radical below it. If you have cows on solid ground, then you really do have a good <radical>life</radical>, I think. Sometimes this radical will show up without the slide part on the side too, though we'll treat them both as \"life.\""
+    },
+    {
+        "char": "乚",
+        "level": 4,
+        "meaning": "Umbrella",
+        "mnemonic": "Do you know how the bottom of an <radical>umbrella</radical> is shaped? It has a hook that curls around for the handle. So when you see this radical, you should think of the bottom of an umbrella, which will help you remember that it means umbrella."
+    },
+    {
+        "char": "亡",
+        "level": 6,
+        "meaning": "Death",
+        "mnemonic": "There's a lid on a lion. And you're stuck under the lid with the lion, which means you will surely meet your <radical>death</radical>. Or if you don't want to die, think of the poor lion. If you leave a lion under a lid for too long, death will come for it too. Either way, somebody's gonna die today."
+    },
+    {
+        "char": "羽",
+        "level": 5,
+        "meaning": "Feathers",
+        "mnemonic": "This radical already looks like a pair of wings, right? What are on wings? Well, usually lots of <radical>feathers</radical>."
+    },
+    {
+        "char": "門",
+        "level": 7,
+        "meaning": "Gate",
+        "mnemonic": "This radical already looks like a <radical>gate</radical>, right? Just imagine a big gate with two pillars, one on either side. Then, up above are the doors, which can come down at any moment."
+    },
+    {
+        "char": "尺",
+        "level": 13,
+        "meaning": "Shrimp",
+        "mnemonic": "This radical has a little head and some shrimpy legs sticking out of it. That's because it's a <radical>shrimp</radical>!"
+    },
+    {
+        "char": "合",
+        "level": 8,
+        "meaning": "Suit",
+        "mnemonic": "You find a hat on the ground with a mouth as the design on the front. You think it looks weird, but when you put it on, you find it <radical>suit</radical>s you quite well. Imagine yourself feeling not so sure about this hat at first. But, once you put it on, you feel pleasantly surprised."
+    },
+    {
+        "char": "匚",
+        "level": 8,
+        "meaning": "Cage",
+        "mnemonic": "This radical is a <radical>cage</radical> because it's covered on all sides but one (the one open side is where the cage door or gate is). There's nothing inside this cage because there's no gate, and whatever was inside has gotten out. I hope it wasn't rabid..."
+    },
+    {
+        "char": "反",
+        "level": 9,
+        "meaning": "Anti",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>anti</radical>."
+    },
+    {
+        "char": "束",
+        "level": 10,
+        "meaning": "Bundle",
+        "mnemonic": "This is a tree with something wrapped around its middle, holding it tight. If you unwrapped that middle part you'd realize it's actually a bunch of trees tied in there. It's a <radical>bundle</radical> of trees!"
+    },
+    {
+        "char": "聿",
+        "level": 9,
+        "meaning": "Brush",
+        "mnemonic": "It's easier to imagine if you turn your head sideways. The left side of this radical is the <radical>brush</radical>. See all the bristles?"
+    },
+    {
+        "char": "意",
+        "level": 13,
+        "meaning": "Idea",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>idea</radical>."
+    },
+    {
+        "char": "坴",
+        "level": 13,
+        "meaning": "Womb",
+        "mnemonic": "Legs appear between two lumps of dirt. This is the earth's version of a <radical>womb</radical>. Imagine a tiny baby growing under the ground and then sprouting out, legs first, into the world. Imagine being inside this dirt womb. It's warm and damp. You feel safe."
+    },
+    {
+        "char": "丸",
+        "level": 13,
+        "meaning": "Circle",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>circle</radical>."
+    },
+    {
+        "char": "東",
+        "level": 13,
+        "meaning": "East",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>east</radical>."
+    },
+    {
+        "char": "冊",
+        "level": 13,
+        "meaning": "Bookshelf",
+        "mnemonic": "This looks like a bunch of books on a shelf. It's a <radical>bookshelf</radical>!"
+    },
+    {
+        "char": "品",
+        "level": 13,
+        "meaning": "Products",
+        "mnemonic": "Three boxes are stacked up on top of each other. These are <radical>products</radical> waiting to be shipped out."
+    },
+    {
+        "char": "己",
+        "level": 7,
+        "meaning": "Oneself",
+        "mnemonic": "This looks a bit like a backwards S. S for Self. But it's backwards because you didn't want to mix yourself up with any of the other selves out there, so you flipped it. That's why it means <radical>oneself</radical>. (That's you!)\n\nThis radical will appear as things like yourself, herself, etc., so keep that in mind!"
+    },
+    {
+        "char": "正",
+        "level": 9,
+        "meaning": "Correct",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>correct</radical>."
+    },
+    {
+        "char": "原",
+        "level": 13,
+        "meaning": "Original",
+        "mnemonic": "There is something white and small stuck in this cliff. It's... it's... so <radical>original</radical>, you can't name it. You've never seen anything like it. It's the one and only thing of its type. You decide to just name it \"original\" because you aren't a very original person..."
+    },
+    {
+        "char": "央",
+        "level": 13,
+        "meaning": "Center",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>center</radical>."
+    },
+    {
+        "char": "忄",
+        "level": 13,
+        "meaning": "Soul",
+        "mnemonic": "There are fins floating off of what's left of a fish. This is the fish's <radical>soul</radical>, left over after you ate its body. Make sure you wave goodbye to the souls of the fish you eat. It's respectful."
+    },
+    {
+        "char": "豕",
+        "level": 7,
+        "meaning": "Pig",
+        "mnemonic": "You have the animal radical in this already, that should be a clue. What kind of animal is it? It's in the ground, covered in mud. Also, there are toes laying around with it, because this animal will eat anything (good way to get rid of bodies... I hear). So what's this animal that's covered in mud and eats toes because it will eat anything? It's a <radical>pig</radical>!"
+    },
+    {
+        "char": "身",
+        "level": 13,
+        "meaning": "Body",
+        "mnemonic": "This radical is almost the same as the kanji, but it drops the \"some\" from somebody, making this just a <radical>body</radical>. Like the physical body you're trapped in right now."
+    },
+    {
+        "char": "果",
+        "level": 13,
+        "meaning": "Fruit",
+        "mnemonic": "Everything's about rice in ancient Japan and China. So the rice paddy that is on the tree isn't rice, of course, it's another kind of food. It's <radical>fruit</radical>!"
+    },
+    {
+        "char": "勺",
+        "level": 14,
+        "meaning": "Pool",
+        "mnemonic": "There's a drop of water trapped in a prison. A prison for us to play in! It's a <radical>pool</radical>! The water may not like being in there, but all of us hot people sure do."
+    },
+    {
+        "char": "公",
+        "level": 14,
+        "meaning": "Public",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>public</radical>."
+    },
+    {
+        "char": "今",
+        "level": 3,
+        "meaning": "Now",
+        "mnemonic": "This is a hat on top of the katakana for \"ra.\" Think of Ra, the Egyptian god. When is Ra wearing a hat? Right <radical>now</radical>! It's always now, because he never takes it off. No really, look it up, it's true."
+    },
+    {
+        "char": "百",
+        "level": 13,
+        "meaning": "Hundred",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>hundred</radical>."
+    },
+    {
+        "char": "隹",
+        "level": 10,
+        "meaning": "Turkey",
+        "mnemonic": "This looks kind of like the top of the bird radical, but not quite. It's kind of a dumb-looking bird radical top. What's a dumb bird, so dumb that it would look into the sky to drown itself with its mouth open? A <radical>turkey</radical>."
+    },
+    {
+        "char": "巩",
+        "level": 15,
+        "meaning": "Saw",
+        "mnemonic": "You're constructing a table. On the table is a drop of blood, which is your blood. This is from cutting yourself on the <radical>saw</radical> that you're using to make the table. Imagine yourself cutting yourself with the saw by accident. Ouch!"
+    },
+    {
+        "char": "句",
+        "level": 15,
+        "meaning": "Paragraph",
+        "mnemonic": "You're locking the things that come out of your mouth in prison. The prison of paper and rules, that is. These words turn into well-formed <radical>paragraph</radical>s."
+    },
+    {
+        "char": "男",
+        "level": 15,
+        "meaning": "Man",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>man</radical>."
+    },
+    {
+        "char": "去",
+        "level": 15,
+        "meaning": "Past",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>past</radical>."
+    },
+    {
+        "char": "歩",
+        "level": 15,
+        "meaning": "Walk",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>walk</radical>."
+    },
+    {
+        "char": "井",
+        "level": 14,
+        "meaning": "Well",
+        "mnemonic": "Think of this radical like a map you're looking down on. There are four streets going through this small town. Right in the middle is the most important thing—the <radical>well</radical>. Everyone goes through the four streets to get to the well and get the water they crave."
+    },
+    {
+        "char": "分",
+        "level": 14,
+        "meaning": "Part",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>part</radical>."
+    },
+    {
+        "char": "付",
+        "level": 16,
+        "meaning": "Attach",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>attach</radical>."
+    },
+    {
+        "char": "谷",
+        "level": 16,
+        "meaning": "Valley",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>valley</radical>."
+    },
+    {
+        "char": "面",
+        "level": 16,
+        "meaning": "Face",
+        "mnemonic": "You have a leaf, a mouth, and an eye. Those are all things you'll find on a <radical>face</radical>! Wait, you don't have a leaf growing out of your face? Huh... well just imagine you have a normal human face with a leaf on there somewhere, ya weirdo."
+    },
+    {
+        "char": "楽",
+        "level": 17,
+        "meaning": "Comfort",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>comfort</radical>."
+    },
+    {
+        "char": "無",
+        "level": 17,
+        "meaning": "Nothing",
+        "mnemonic": "There are a bunch of cages boiling. But you look inside the cages and there... there's <radical>nothing</radical>. You boiled whatever was in there down to nothing!"
+    },
+    {
+        "char": "吉",
+        "level": 17,
+        "meaning": "Good Luck",
+        "mnemonic": "This is the samurai radical on top of the mouth radical. If you get to hear what a samurai says, you'll have really <radical>good luck</radical>. Samurai are pretty hard to find nowadays, which is probably why my luck has been so bad..."
+    },
+    {
+        "char": "虍",
+        "level": 17,
+        "meaning": "Tiger",
+        "mnemonic": "You lost seven toes on a cliff, but you consider yourself lucky considering you got them taken off by the cliff <radical>tiger</radical> that lives in the area. Imagine a tiger taking your seven toes as you hang off the edge of a cliff if it helps. Exciting! (And also painful!)"
+    },
+    {
+        "char": "苟",
+        "level": 17,
+        "meaning": "Poem",
+        "mnemonic": "The flowery paragraph isn't just regular writing. It's flowery, which makes it a <radical>poem</radical>."
+    },
+    {
+        "char": "昔",
+        "level": 18,
+        "meaning": "Long Ago",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>long ago</radical>."
+    },
+    {
+        "char": "尭",
+        "level": 18,
+        "meaning": "Gambler",
+        "mnemonic": "The <radical>gambler</radical> holds a cross as he plays blackjack. He stands on his two legs expectantly, hoping he hits the big one. He just put all his money down. If he doesn't win this one the gambler loses everything, including the two legs he's standing on."
+    },
+    {
+        "char": "先",
+        "level": 18,
+        "meaning": "Previous",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>previous</radical>."
+    },
+    {
+        "char": "曽",
+        "level": 18,
+        "meaning": "Mask",
+        "mnemonic": "This looks kind of like a <radical>mask</radical>, right? It has horns, it has crazy eyes, and it has a big mouth. Nobody would actually look like this, which is why this is just a mask."
+    },
+    {
+        "char": "幸",
+        "level": 18,
+        "meaning": "Happiness",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>happiness</radical>. Don't get it confused with the spicy radical <ja>辛</ja>, they're very similar!"
+    },
+    {
+        "char": "争",
+        "level": 18,
+        "meaning": "Conflict",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>conflict</radical>."
+    },
+    {
+        "char": "凶",
+        "level": 18,
+        "meaning": "Treasure Chest",
+        "mnemonic": "There's a treasure radical inside this box. What holds treasures? A <radical>treasure chest</radical>."
+    },
+    {
+        "char": "成",
+        "level": 19,
+        "meaning": "Become",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>become</radical>."
+    },
+    {
+        "char": "才",
+        "level": 14,
+        "meaning": "Genius",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>genius</radical>."
+    },
+    {
+        "char": "复",
+        "level": 19,
+        "meaning": "Black Hole",
+        "mnemonic": "When you shoot your gun at the sun, it becomes winter. The shot you fired sent the sun into a crazy chain reaction, making it implode in on itself and become a <radical>black hole</radical>. Imagine this happening and imagine the shock you'd feel. You shot the sun. You caused this infinite winter (and soon black hole death)."
+    },
+    {
+        "char": "司",
+        "level": 19,
+        "meaning": "Director",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>director</radical>."
+    },
+    {
+        "char": "市",
+        "level": 6,
+        "meaning": "City",
+        "mnemonic": "You already learned the kanji <ja>市</ja>, which means city. We're treating it as a radical too, since it pops up in many other kanji. When used as a radical, it still means <radical>city</radical>. "
+    },
+    {
+        "char": "由",
+        "level": 19,
+        "meaning": "Reason",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>reason</radical>."
+    },
+    {
+        "char": "共",
+        "level": 12,
+        "meaning": "Together",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>together</radical>."
+    },
+    {
+        "char": "飛",
+        "level": 20,
+        "meaning": "Fly",
+        "mnemonic": "This radical is pretty complicated, but not much looks like this radical, so you're in luck. This looks like a giant flying fortress of some kind. See the propellers on the back as it moves to the left? Just imagine something like this flying through the air. That's why this radical is <radical>fly</radical>, because it is flying."
+    },
+    {
+        "char": "兼",
+        "level": 20,
+        "meaning": "Mona Lisa",
+        "mnemonic": "This radical looks like a combination of the brush radical and the beauty kanji (<ja>美</ja>). So what's something beautiful you can paint with a brush? The most famous is probably the <radical>Mona Lisa</radical>."
+    },
+    {
+        "char": "我",
+        "level": 19,
+        "meaning": "Ego",
+        "mnemonic": "There's a drunkard holding out his fingers. He's staring at them. Realizing who he is. He's becoming aware of his <radical>ego</radical>. Now that he's aware of himself, he's probably going to get an inflated ego too. Yuck."
+    },
+    {
+        "char": "巛",
+        "level": 20,
+        "meaning": "Flood",
+        "mnemonic": "The three lines that make up the river radical are being pulled to one direction. It's a giant force of water going to the left. It's a <radical>flood</radical>! RUN!"
+    },
+    {
+        "char": "至",
+        "level": 20,
+        "meaning": "Mole",
+        "mnemonic": "There's trash on some dirt that seems to be... moving? If you lift up that trash you'll find a <radical>mole</radical> in the dirt! Moles like to dig around underground and look for stuff to grab (like trash). They're the raccoons of the ground."
+    },
+    {
+        "char": "失",
+        "level": 10,
+        "meaning": "Fault",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>fault</radical>."
+    },
+    {
+        "char": "啇",
+        "level": 21,
+        "meaning": "Mohawk",
+        "mnemonic": "You have something old on your head that's standing up. What is this thing? An awesome <radical>mohawk</radical>. You've had it so long it's looking pretty old... but still awesome."
+    },
+    {
+        "char": "斉",
+        "level": 21,
+        "meaning": "Simultaneous",
+        "mnemonic": "If you're writing while looking at the moon, you can bet someone else is doing it too. People have a habit of looking at the moon <radical>simultaneous</radical>ly."
+    },
+    {
+        "char": "次",
+        "level": 21,
+        "meaning": "Next",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>next</radical>."
+    },
+    {
+        "char": "平",
+        "level": 21,
+        "meaning": "Peace",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>peace</radical>."
+    },
+    {
+        "char": "番",
+        "level": 21,
+        "meaning": "Number",
+        "mnemonic": "This radical is the same as the kanji, but \"number in a series\" is too long. Let's shorten it to <radical>number</radical>."
+    },
+    {
+        "char": "角",
+        "level": 21,
+        "meaning": "Angle",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>angle</radical>."
+    },
+    {
+        "char": "呂",
+        "level": 22,
+        "meaning": "Bathtub",
+        "mnemonic": "See the dude sitting inside the box? His head is sticking out the top. That's a <radical>bathtub</radical> he's sitting in."
+    },
+    {
+        "char": "安",
+        "level": 22,
+        "meaning": "Cheap",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>cheap</radical>."
+    },
+    {
+        "char": "弗",
+        "level": 22,
+        "meaning": "Dollar",
+        "mnemonic": "This is a squiggle with two lines through it. Hmmm doesn't that seem familiar? It should, because it's the <radical>dollar</radical> symbol: $. Well, close enough. Just look at this and think, ah yes, a totally normal American dollar."
+    },
+    {
+        "char": "充",
+        "level": 22,
+        "meaning": "Allocate",
+        "mnemonic": "You have some legs and you need to put them in the trash. But you'll get caught if you put them in one trash can. Quick, cut them up and <radical>allocate</radical> them to different trash cans around the city. Then you'll never get caught."
+    },
+    {
+        "char": "爰",
+        "level": 22,
+        "meaning": "Football",
+        "mnemonic": "Your friend is on the ground and you step on him with your cleat. There is no friendship here. This is a true sport you're playing. This is <radical>football</radical>."
+    },
+    {
+        "char": "能",
+        "level": 22,
+        "meaning": "Ability",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>ability</radical>."
+    },
+    {
+        "char": "革",
+        "level": 23,
+        "meaning": "Leather",
+        "mnemonic": "When I look at this radical, I see the body and (mainly) head of a bull. What are bulls made of? They're made of <radical>leather</radical>."
+    },
+    {
+        "char": "丩",
+        "level": 23,
+        "meaning": "Vines",
+        "mnemonic": "This radical is made up of two <radical>vines</radical> hanging down and a branch linking them together. Imagine swinging on these Tarzan style. AaaaAA aAA AAAaaaa!"
+    },
+    {
+        "char": "亭",
+        "level": 23,
+        "meaning": "Restaurant",
+        "mnemonic": "You see a lid on the street with a drawing of a forehead and a mouth on it. Hmm strange. You pick the lid up and reveal... a secret, underground <radical>restaurant</radical>! The mouth + forehead combo was secret street restaurant code for, \"There's good eats down in this here restaurant hole!\""
+    },
+    {
+        "char": "道",
+        "level": 23,
+        "meaning": "Road",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>road</radical>."
+    },
+    {
+        "char": "鬼",
+        "level": 23,
+        "meaning": "Demon",
+        "mnemonic": "This is a <radical>demon</radical>. Can you see him? He has a crazy face and some tentacles holding something demonic. Try to figure out how to see a demon. But don't see him too good, cause then he'll come out of your computer and eat you."
+    },
+    {
+        "char": "旦",
+        "level": 24,
+        "meaning": "Dawn",
+        "mnemonic": "The sun is coming up out of the ground, making this radical <radical>dawn</radical>. Of course, don't confuse this with dusk! You can do that by thinking that the sun is an optimistic and bright thing, so it tends to come up, not go down. (Also, Japan is the Land of the Rising Sun. I mean come on!)"
+    },
+    {
+        "char": "韋",
+        "level": 24,
+        "meaning": "Korea",
+        "mnemonic": "There are five mouths eating cow at <radical>Korea</radical>n BBQ. Korea is famous for their delicious BBQ, and you need a lot of people to eat all that beef. At least five people. (Get it? Five people!) That's why this radical is Korea."
+    },
+    {
+        "char": "客",
+        "level": 24,
+        "meaning": "Guest",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>guest</radical>."
+    },
+    {
+        "char": "制",
+        "level": 24,
+        "meaning": "Control",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>control</radical>."
+    },
+    {
+        "char": "然",
+        "level": 24,
+        "meaning": "Nature",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>nature</radical>."
+    },
+    {
+        "char": "受",
+        "level": 24,
+        "meaning": "Accept",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>accept</radical>."
+    },
+    {
+        "char": "京",
+        "level": 25,
+        "meaning": "Capital",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>capital</radical>."
+    },
+    {
+        "char": "甫",
+        "level": 25,
+        "meaning": "Wedding",
+        "mnemonic": "This radical looks like someone wearing a giant dress who has a tear in their eye. This is a person at their <radical>wedding</radical>. That explains the big dress and the tear (of happiness!) in their eye."
+    },
+    {
+        "char": "友",
+        "level": 25,
+        "meaning": "Friend",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>friend</radical>."
+    },
+    {
+        "char": "交",
+        "level": 25,
+        "meaning": "Mix",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>mix</radical>."
+    },
+    {
+        "char": "冓",
+        "level": 25,
+        "meaning": "Lifeguard",
+        "mnemonic": "You have a task to save two kinds of lives. Who saves two kinds of lives? A <radical>lifeguard</radical>. They save the lives of people drowning, and then the lives of the people who go to try to help them. Picture a lifeguard saving the lives of two people at once. What a hero!"
+    },
+    {
+        "char": "両",
+        "level": 25,
+        "meaning": "Both",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>both</radical>."
+    },
+    {
+        "char": "半",
+        "level": 21,
+        "meaning": "Half",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>half</radical>."
+    },
+    {
+        "char": "告",
+        "level": 26,
+        "meaning": "Announce",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>announce</radical>."
+    },
+    {
+        "char": "万",
+        "level": 26,
+        "meaning": "Ten Thousand",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>ten thousand</radical>."
+    },
+    {
+        "char": "農",
+        "level": 27,
+        "meaning": "Farming",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>farming</radical>."
+    },
+    {
+        "char": "而",
+        "level": 27,
+        "meaning": "Rake",
+        "mnemonic": "If you look at it, you can see it's a weird looking <radical>rake</radical>."
+    },
+    {
+        "char": "代",
+        "level": 27,
+        "meaning": "Substitute",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>substitute</radical>."
+    },
+    {
+        "char": "化",
+        "level": 27,
+        "meaning": "Change",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>change</radical>."
+    },
+    {
+        "char": "民",
+        "level": 27,
+        "meaning": "Peoples",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>peoples</radical>."
+    },
+    {
+        "char": "余",
+        "level": 27,
+        "meaning": "Surplus",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>surplus</radical>."
+    },
+    {
+        "char": "巨",
+        "level": 28,
+        "meaning": "Giant",
+        "mnemonic": "If you were to look at a <radical>giant</radical> from above, this is what you would see. Do you see the head and two arms? The giant is facing towards the right."
+    },
+    {
+        "char": "屯",
+        "level": 28,
+        "meaning": "Barracks",
+        "mnemonic": "You stick an umbrella with a big slide on it into the mountainside to make your <radical>barracks</radical>. You're going to use these barracks to teach soldiers how to slide slides and hide from bad weather. It's ingenious!"
+    },
+    {
+        "char": "専",
+        "level": 28,
+        "meaning": "Specialty",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>specialty</radical>."
+    },
+    {
+        "char": "麗",
+        "level": 28,
+        "meaning": "Lovely",
+        "mnemonic": "I don't know what this thing is, but it's <radical>lovely</radical>. It has two eyes, a funny mouth, and a scraggly beard. It's lovely, and nothing else, okay? So remember it that way."
+    },
+    {
+        "char": "尞",
+        "level": 29,
+        "meaning": "Charcoal",
+        "mnemonic": "When the sun gets small, you need to heat up by throwing some big horns in the fire. This turns into charcoal. Nice, toasty <radical>charcoal</radical> that keeps you warm when the sun gets small."
+    },
+    {
+        "char": "衣",
+        "level": 23,
+        "meaning": "Clothes",
+        "mnemonic": "You kick a lid off a box. Inside the box is a bunch of <radical>clothes</radical>. This radical will be the same as the kanji you'll learn later on, so it's helpful to learn it as clothes even though it doesn't quite look like clothes."
+    },
+    {
+        "char": "責",
+        "level": 29,
+        "meaning": "Blame",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>blame</radical>."
+    },
+    {
+        "char": "区",
+        "level": 29,
+        "meaning": "District",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>district</radical>."
+    },
+    {
+        "char": "臣",
+        "level": 29,
+        "meaning": "Servant",
+        "mnemonic": "Hey, it's that giant you learned before. But... but its arms are chained. They're chained because you caught the giant and now it's your <radical>servant</radical>!"
+    },
+    {
+        "char": "乙",
+        "level": 29,
+        "meaning": "Nose",
+        "mnemonic": "If you look at this radical right, you'll see a <radical>NOSE</radical> (with a squinty eye on the left)."
+    },
+    {
+        "char": "上",
+        "level": 29,
+        "meaning": "Above",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>above</radical>."
+    },
+    {
+        "char": "奇",
+        "level": 28,
+        "meaning": "Odd",
+        "mnemonic": "A big lip ring is a pretty <radical>odd</radical> thing to have. If it's big, it'll stretch your lip out, which is odd too."
+    },
+    {
+        "char": "北",
+        "level": 30,
+        "meaning": "North",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>north</radical>."
+    },
+    {
+        "char": "監",
+        "level": 30,
+        "meaning": "Oversee",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>oversee</radical>."
+    },
+    {
+        "char": "系",
+        "level": 30,
+        "meaning": "Lineage",
+        "mnemonic": "A thread goes through the ground. It traces your <radical>lineage</radical>. You follow the thread all the way back through many generations, to find out your lineage involves Genghis Khan. Feel the thread and the dirt in your hand and actually trace the lineage."
+    },
+    {
+        "char": "甲",
+        "level": 30,
+        "meaning": "Turtle Shell",
+        "mnemonic": "Poor turtles. We don't like them here. This is a <radical>turtle shell</radical>. See the shell with just a tail remaining? It's the only thing we didn't remove off the turtle. It's just a shell with a tail, so basically it's just a turtle shell."
+    },
+    {
+        "char": "召",
+        "level": 27,
+        "meaning": "Call",
+        "mnemonic": "If someone has a sword to your mouth you need to <radical>call</radical> out for help! Call out as loud as you can to anyone nearby who might help you get this guy to take the sword out of your mouth."
+    },
+    {
+        "char": "出",
+        "level": 27,
+        "meaning": "Exit",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>exit</radical>."
+    },
+    {
+        "char": "牙",
+        "level": 31,
+        "meaning": "Fang",
+        "mnemonic": "Imagine this in your mouth. It's one tooth that sticks out more than any other. It's your <radical>fang</radical>. Can you see this sticking out of a wolf mouth instead? Try that if you can't picture yourself with a fang this cool."
+    },
+    {
+        "char": "並",
+        "level": 31,
+        "meaning": "Line Up",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>line up</radical>."
+    },
+    {
+        "char": "華",
+        "level": 41,
+        "meaning": "Showy",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>showy</radical>."
+    },
+    {
+        "char": "鬲",
+        "level": 31,
+        "meaning": "Bully",
+        "mnemonic": "He's a creeper and he's Four-T (forty). If someone like this creeps on you, they're just a <radical>bully</radical>. When you get to forty you aren't supposed to creep on people anymore. You bully. You jerk."
+    },
+    {
+        "char": "离",
+        "level": 31,
+        "meaning": "Rocket",
+        "mnemonic": "This is a very complicated and tall radical. It has a lid on top to keep the explosiveness in. It also contains a treasure, at least for the people who will receive what's inside. Also, it has a cow, which will be used for milk on Mars. This is a <radical>rocket</radical> filled with goodies for space people."
+    },
+    {
+        "char": "扁",
+        "level": 31,
+        "meaning": "Library",
+        "mnemonic": "There's a door over the bookcase. That makes this a <radical>library</radical>!"
+    },
+    {
+        "char": "予",
+        "level": 12,
+        "meaning": "Beforehand",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>beforehand</radical>."
+    },
+    {
+        "char": "卬",
+        "level": 32,
+        "meaning": "Cat Pirate",
+        "mnemonic": "See the CP in this radical? It stands for <radical>Cat Pirate</radical>. Meoaarrrr."
+    },
+    {
+        "char": "同",
+        "level": 32,
+        "meaning": "Same",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>same</radical>."
+    },
+    {
+        "char": "夜",
+        "level": 32,
+        "meaning": "Night",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>night</radical>."
+    },
+    {
+        "char": "必",
+        "level": 32,
+        "meaning": "Certain",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>certain</radical>."
+    },
+    {
+        "char": "間",
+        "level": 33,
+        "meaning": "Interval",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>interval</radical>."
+    },
+    {
+        "char": "享",
+        "level": 33,
+        "meaning": "Sock",
+        "mnemonic": "Best way to put a lid on the mouth of a child is to put a <radical>sock</radical> in that child's mouth. Shuts them up good, it does. Add a nice fat sock and they can't talk anymore, essentially putting a lid on their mouth."
+    },
+    {
+        "char": "内",
+        "level": 33,
+        "meaning": "Inside",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>inside</radical>."
+    },
+    {
+        "char": "蔵",
+        "level": 33,
+        "meaning": "Storehouse",
+        "mnemonic": "Your flowers become your servants. You plant them, you water them, you bring them up, then you cut them down and put them in your <radical>storehouse</radical>. They do what you want because they become YOUR servants, not the other way around. That's why you can tell them to sit in the storehouse where they wait until you come to eat them."
+    },
+    {
+        "char": "呉",
+        "level": 34,
+        "meaning": "Catapult",
+        "mnemonic": "See the rock in the <radical>catapult</radical>? It even has little legs to hold it steady so it can catapult better."
+    },
+    {
+        "char": "員",
+        "level": 34,
+        "meaning": "Member",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>member</radical>."
+    },
+    {
+        "char": "爪",
+        "level": 34,
+        "meaning": "Claw",
+        "mnemonic": "This looks like a <radical>claw</radical> of some kind already, making it quite easy!"
+    },
+    {
+        "char": "亥",
+        "level": 34,
+        "meaning": "Slice",
+        "mnemonic": "See the guy? See how he was CUT IN HALF??? That must have been one heckuva <radical>slice</radical> to do that to a person."
+    },
+    {
+        "char": "帯",
+        "level": 35,
+        "meaning": "Belt",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>belt</radical>."
+    },
+    {
+        "char": "亀",
+        "level": 35,
+        "meaning": "Turtle",
+        "mnemonic": "There's a turtle shell inside this <radical>turtle</radical> radical. You can tell because there's a whole head and tail on this thing, making it a real turtle, not just a turtle shell."
+    },
+    {
+        "char": "彑",
+        "level": 35,
+        "meaning": "Shuriken",
+        "mnemonic": "See the <radical>shuriken</radical> stuck into the ground? In case you don't know, a shuriken is just a throwing star. Awesome ninjas use them. That's what's in this radical."
+    },
+    {
+        "char": "為",
+        "level": 35,
+        "meaning": "Sake",
+        "mnemonic": "This radical looks like a big, weird caterpillar bug thing. But, for the sake of everyone's sanity, we'll just call it <radical>sake</radical>, okay? Keep in mind, we mean sake as in \"for the sake of X,\" not as in the alcoholic beverage!"
+    },
+    {
+        "char": "莫",
+        "level": 25,
+        "meaning": "Greenhouse",
+        "mnemonic": "Flowers need the sun to get big. To help them grow as big as possible, we put them in the <radical>greenhouse</radical>."
+    },
+    {
+        "char": "明",
+        "level": 36,
+        "meaning": "Bright",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>bright</radical>."
+    },
+    {
+        "char": "貴",
+        "level": 36,
+        "meaning": "Valuable",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>valuable</radical>."
+    },
+    {
+        "char": "発",
+        "level": 36,
+        "meaning": "Departure",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>departure</radical>."
+    },
+    {
+        "char": "甘",
+        "level": 36,
+        "meaning": "Sweet",
+        "mnemonic": "This radical is the sun with its hair sticking out. Why is the sun's hair sticking out like this? It ate wayyy too many <radical>sweet</radical> things causing it to have too much energy, making its hair stand on end. It also kind of looks like a sweet, sweet candy with the wrapper sticking out. Remember it how you'd like."
+    },
+    {
+        "char": "南",
+        "level": 36,
+        "meaning": "South",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>south</radical>."
+    },
+    {
+        "char": "右",
+        "level": 19,
+        "meaning": "Right",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>right</radical>."
+    },
+    {
+        "char": "兆",
+        "level": 37,
+        "meaning": "Omen",
+        "mnemonic": "There's an explosion around your legs. It was just as the fortune teller warned. This is the <radical>omen</radical> she was talking about. Think about what happens after the omen hits. What horrible fortune teller magic will happen???"
+    },
+    {
+        "char": "賞",
+        "level": 37,
+        "meaning": "Prize",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>prize</radical>."
+    },
+    {
+        "char": "串",
+        "level": 37,
+        "meaning": "Skewer",
+        "mnemonic": "There's a stick going through some juicy meat. This is a <radical>skewer</radical>."
+    },
+    {
+        "char": "暴",
+        "level": 37,
+        "meaning": "Violence",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>violence</radical>."
+    },
+    {
+        "char": "辟",
+        "level": 38,
+        "meaning": "Hot Pepper",
+        "mnemonic": "You see something with a flag on it and put it in your mouth. It was spicy! You look at the little flag and it says... <radical>hot pepper</radical>."
+    },
+    {
+        "char": "思",
+        "level": 38,
+        "meaning": "Think",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>think</radical>."
+    },
+    {
+        "char": "県",
+        "level": 38,
+        "meaning": "Prefecture",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>prefecture</radical>."
+    },
+    {
+        "char": "空",
+        "level": 38,
+        "meaning": "Sky",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>sky</radical>."
+    },
+    {
+        "char": "有",
+        "level": 38,
+        "meaning": "Have",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>have</radical>."
+    },
+    {
+        "char": "歯",
+        "level": 38,
+        "meaning": "Tooth",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>tooth</radical>."
+    },
+    {
+        "char": "君",
+        "level": 39,
+        "meaning": "Buddy",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>buddy</radical>."
+    },
+    {
+        "char": "旧",
+        "level": 39,
+        "meaning": "Former",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>former</radical>."
+    },
+    {
+        "char": "岡",
+        "level": 39,
+        "meaning": "Hill",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>hill</radical>."
+    },
+    {
+        "char": "三",
+        "level": 39,
+        "meaning": "Three",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>three</radical>."
+    },
+    {
+        "char": "雇",
+        "level": 40,
+        "meaning": "Employ",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>employ</radical>."
+    },
+    {
+        "char": "毎",
+        "level": 40,
+        "meaning": "Every",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>every</radical>."
+    },
+    {
+        "char": "保",
+        "level": 40,
+        "meaning": "Preserve",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>preserve</radical>."
+    },
+    {
+        "char": "夆",
+        "level": 41,
+        "meaning": "Signpost",
+        "mnemonic": "This is a post with signs on it. And on top is a winter marker, showing that if you go north it's winter up there. The signs say things like \"Narnia ↑\" and \"Meridell ←\" and \"Bananaland →\" so you know it's a <radical>signpost</radical>."
+    },
+    {
+        "char": "広",
+        "level": 33,
+        "meaning": "Wide",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>wide</radical>."
+    },
+    {
+        "char": "義",
+        "level": 20,
+        "meaning": "Righteousness",
+        "mnemonic": "The horns of the king. They are so large and they cause the king to have an ego. This ego gives the king a sense of <radical>righteousness</radical> that he shouldn't have. Well, I suppose that's what kings do, but those horns are ridiculous."
+    },
+    {
+        "char": "瓜",
+        "level": 42,
+        "meaning": "Melon",
+        "mnemonic": "This is a <radical>melon</radical>. Imagine a melon cut in half, and you're looking at its insides from the side. See those precious private melon parts? You're gonna keep those for yourself, because melons are delicious and not for sharing."
+    },
+    {
+        "char": "骨",
+        "level": 42,
+        "meaning": "Bone",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>bone</radical>."
+    },
+    {
+        "char": "屋",
+        "level": 42,
+        "meaning": "Shop",
+        "mnemonic": "We already have a roof radical, so we're going to use the secondary kanji meaning for this radical. It's <radical>shop</radical>, remember?"
+    },
+    {
+        "char": "耒",
+        "level": 43,
+        "meaning": "Plow",
+        "mnemonic": "You're sliding some dirt around with a tree you cut down. This contraption you've made is called a <radical>plow</radical>. Use it to push dirt around!"
+    },
+    {
+        "char": "龍",
+        "level": 43,
+        "meaning": "Imperial",
+        "mnemonic": "Stand up on the moon so you can look down on your countries. The thing with all the lines and borders are the borders of all the countries you rule, for you are an <radical>imperial</radical>."
+    },
+    {
+        "char": "業",
+        "level": 12,
+        "meaning": "Business",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>business</radical>."
+    },
+    {
+        "char": "冘",
+        "level": 30,
+        "meaning": "Pirate",
+        "mnemonic": "This kind of looks like big (<ja>大</ja>), which I think you'll remember you learned by pretending this was a big guy. This big guy, however, has a funny leg... a peg leg. That makes him a <radical>pirate</radical>. Also, his arms are in the \"YARRRR\" position."
+    },
+    {
+        "char": "缶",
+        "level": 44,
+        "meaning": "Can",
+        "mnemonic": "It's kind of hard to see, but if you look at this the right way it looks like a tin <radical>can</radical>. The lines in the middle show the circumference, and the lines on the tops and sides show the outline of the can."
+    },
+    {
+        "char": "刃",
+        "level": 21,
+        "meaning": "Blade",
+        "mnemonic": "You have a sword that has a drop of something on it. That drop is a drop of blood. Sure, a sword will cut someone to spill some blood, but all you really need is any kind of <radical>blade</radical> to cut someone. Sword, knife, whatever, as long as it's a blade."
+    },
+    {
+        "char": "竜",
+        "level": 44,
+        "meaning": "Dragon",
+        "mnemonic": "A turtle that stands up isn't a turtle anymore. It's evolved into a monster. What kind of monster? A <radical>dragon</radical>! Rawwwr."
+    },
+    {
+        "char": "包",
+        "level": 37,
+        "meaning": "Wrap",
+        "mnemonic": "Yourself (oneself) is in prison. Look at the prison as it wraps around you. It wraps you up and holds you tight. That's why this is the <radical>wrap</radical> radical!"
+    },
+    {
+        "char": "守",
+        "level": 45,
+        "meaning": "Protect",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>protect</radical>."
+    },
+    {
+        "char": "更",
+        "level": 45,
+        "meaning": "Again",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>again</radical>."
+    },
+    {
+        "char": "家",
+        "level": 45,
+        "meaning": "House",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>house</radical>."
+    },
+    {
+        "char": "求",
+        "level": 12,
+        "meaning": "Request",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>request</radical>."
+    },
+    {
+        "char": "恵",
+        "level": 46,
+        "meaning": "Favor",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>favor</radical>."
+    },
+    {
+        "char": "波",
+        "level": 47,
+        "meaning": "Wave",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>wave</radical>."
+    },
+    {
+        "char": "玄",
+        "level": 48,
+        "meaning": "Mysterious",
+        "mnemonic": "What's under this lid that smells like poop? I don't know! How <radical>mysterious</radical>."
+    },
+    {
+        "char": "容",
+        "level": 48,
+        "meaning": "Form",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>form</radical>."
+    },
+    {
+        "char": "光",
+        "level": 48,
+        "meaning": "Sunlight",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>sunlight</radical>."
+    },
+    {
+        "char": "回",
+        "level": 49,
+        "meaning": "Times",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>times</radical>."
+    },
+    {
+        "char": "甚",
+        "level": 49,
+        "meaning": "Crab Trap",
+        "mnemonic": "This radical looks like a small animal (<ja>匹</ja>) has a crab (<ja>其</ja>) sticking out of it. Often when a crab is eating a small animal, that small animal was put inside a crab trap to catch the crab, luring it in with the small animal. That's why this radical is <radical>crab trap</radical>."
+    },
+    {
+        "char": "丈",
+        "level": 15,
+        "meaning": "Height",
+        "mnemonic": "There is a narwhal at the top of this slide. What's it doing? The narwhal is trying to increase its <radical>height</radical>. Picture a narwhal propping itself up on a slide. It's self-conscious of its height. It's trying to prove to all the other narwhals that it should be allowed to play in their narwhal games, even though it's not the same height as them."
+    },
+    {
+        "char": "名",
+        "level": 50,
+        "meaning": "Name",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>name</radical>."
+    },
+    {
+        "char": "禺",
+        "level": 50,
+        "meaning": "Splinter",
+        "mnemonic": "Although a little bit modified, there is a turtle shell that's on a mustache with this radical. The only thing with a mustache that hangs around turtles is Splinter, the giant rat from Teenage Mutant Ninja Turtles. So this radical is <radical>Splinter</radical> (the giant rat)."
+    },
+    {
+        "char": "太",
+        "level": 46,
+        "meaning": "Fat",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>fat</radical>."
+    },
+    {
+        "char": "豸",
+        "level": 43,
+        "meaning": "Badger",
+        "mnemonic": "You know the animal radical. This is just like that with a little extra. It's an animal already... which means all you have to do is remember what kind of animal. In this case, it's a <radical>badger</radical>."
+    },
+    {
+        "char": "真",
+        "level": 39,
+        "meaning": "Reality",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>reality</radical>."
+    },
+    {
+        "char": "巻",
+        "level": 39,
+        "meaning": "Scroll",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>scroll</radical>."
+    },
+    {
+        "char": "午",
+        "level": 18,
+        "meaning": "Noon",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>noon</radical>."
+    },
+    {
+        "char": "風",
+        "level": 44,
+        "meaning": "Wind",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>wind</radical>."
+    },
+    {
+        "char": "台",
+        "level": 9,
+        "meaning": "Machine",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>machine</radical>."
+    },
+    {
+        "char": "孝",
+        "level": 7,
+        "meaning": "Teacher",
+        "mnemonic": "This radical is made up of coffin and child. To keep a child out of a coffin they'll need a good <radical>teacher</radical> to make sure they know not to stick forks in outlets or dance in traffic. That's why this radical is a teacher."
+    },
+    {
+        "char": "且",
+        "level": 7,
+        "meaning": "Top Hat",
+        "mnemonic": "This radical looks just like a top hat. That's why it's <radical>top hat</radical>!"
+    },
+    {
+        "char": "疋",
+        "level": 9,
+        "meaning": "Coat Rack",
+        "mnemonic": "See all the arms sticking out of this radical? Those are for hanging lots of hats and scarves and coats on because it's a <radical>coat rack</radical>."
+    },
+    {
+        "char": "壴",
+        "level": 16,
+        "meaning": "Drum",
+        "mnemonic": "This radical is made up of samurai and beans. Samurai used to put beans in <radical>drum</radical>s so they could tap and shake them to make noise. Can you imagine shaking and tapping this drum radical?"
+    },
+    {
+        "char": "兑",
+        "level": 17,
+        "meaning": "Guard",
+        "mnemonic": "This radical is made up of horns and older brother. But those aren't really horns, they're a part of your older brother's new <radical>guard</radical> uniform. He's a guard now, of a bank or a museum. You don't know which, but you know he stands around a lot in his uniform now."
+    },
+    {
+        "char": "感",
+        "level": 19,
+        "meaning": "Feeling",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>feeling</radical>."
+    },
+    {
+        "char": "覀",
+        "level": 9,
+        "meaning": "Helicopter",
+        "mnemonic": "This radical looks like a <radical>helicopter</radical> coming straight at you, doesn't it? You can't see the tail part because it's behind the bigger front cab of the helicopter. But you can see the windows and the big spinning blade on top from here."
+    },
+    {
+        "char": "禹",
+        "level": 25,
+        "meaning": "Mantis",
+        "mnemonic": "This radical has slide, head, and insect in it. Which insect will slide your head off in a matter of seconds and then eat it? The fearsome praying <radical>mantis</radical>."
+    },
+    {
+        "char": "夌",
+        "level": 52,
+        "meaning": "Frostbite",
+        "mnemonic": "This radical is made of dirt, legs, and winter. If you have to bury your legs in the dirt in winter, it's probably because you got <radical>frostbite</radical>. You had to leave your dead legs behind. :("
+    },
+    {
+        "char": "夋",
+        "level": 32,
+        "meaning": "Spider",
+        "mnemonic": "If you look closely and carefully, sometimes you can see some private legs in winter. Whose legs? <radical>Spider</radical> legs! It's too cold for them in winter, so they hide in cracks and crevices, but sometimes you can see their little leggies sticking out anyway."
+    },
+    {
+        "char": "堇",
+        "level": 34,
+        "meaning": "Boot",
+        "mnemonic": "There's something made of leather with some dirt on the bottom of it. It's a <radical>boot</radical>!"
+    },
+    {
+        "char": "舛",
+        "level": 36,
+        "meaning": "Dance",
+        "mnemonic": "You see a cow in the evening. You get closer and realize it's doing a <radical>dance</radical>. All cows dance in the evening. Can you picture it? The cow is dancing, so majestic, in the setting sunlight."
+    },
+    {
+        "char": "㐮",
+        "level": 39,
+        "meaning": "Nurse",
+        "mnemonic": "This radical is made up of blackjack and clothes with the six kanji on top. If you see six people playing blackjack and wearing the same clothes you should know that they're all <radical>nurse</radical>s. Nurses play blackjack together to cool down between shifts and they usually don't have time to change out of their uniforms. That's why this radical is nurse."
+    },
+    {
+        "char": "敝",
+        "level": 47,
+        "meaning": "Penguin",
+        "mnemonic": "There are fins wrapped in a towel in winter. Who is drying these fish fins to eat them? A <radical>penguin</radical>."
+    },
+    {
+        "char": "胃",
+        "level": 51,
+        "meaning": "Stomach",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>stomach</radical>."
+    },
+    {
+        "char": "舎",
+        "level": 32,
+        "meaning": "Cottage",
+        "mnemonic": "This radical looks like a little house, one that would be perfect in the middle of nowhere, surrounded by bamboo and a little mountain stream. See the roof and the open door? That's why this is the <radical>cottage</radical> radical."
+    },
+    {
+        "char": "凸",
+        "level": 57,
+        "meaning": "Convex",
+        "mnemonic": "This looks like a box with something sticking out of it. When something is sticking out of something else it's <radical>convex</radical>."
+    },
+    {
+        "char": "凹",
+        "level": 57,
+        "meaning": "Concave",
+        "mnemonic": "It looks like there is a dent in this box. When there is a hole or a dent in something it's called <radical>concave</radical>."
+    },
+    {
+        "char": "下",
+        "level": 59,
+        "meaning": "Below",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>below</radical>."
+    },
+    {
+        "char": "勇",
+        "level": 60,
+        "meaning": "Courage",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>courage</radical>."
+    },
+    {
+        "char": "高",
+        "level": 53,
+        "meaning": "Tall",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>tall</radical>."
+    },
+    {
+        "char": "売",
+        "level": 10,
+        "meaning": "Sell",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>sell</radical>."
+    },
+    {
+        "char": null,
+        "level": 1,
+        "meaning": "Stick",
+        "mnemonic": "This is a <radical>stick</radical>, sticking out of the ground. It even looks like a stick."
+    },
+    {
+        "char": null,
+        "level": 1,
+        "meaning": "Gun",
+        "mnemonic": "This looks a lot like a long <radical>gun</radical> pointing to the right. You have a shoulder rest on the left, and the barrel on the right. Imagine it hanging in a case on the wall in a museum."
+    },
+    {
+        "char": null,
+        "level": 1,
+        "meaning": "Leaf",
+        "mnemonic": "There's a leaf on top and a stem going down out of it, making it the <radical>leaf</radical> radical. It looks kind of like a lilypad, sitting on top of the water with its stem going down to the bottom where the dirt is."
+    },
+    {
+        "char": null,
+        "level": 3,
+        "meaning": "Hat",
+        "mnemonic": "Do you know those rice paddy hats? The ones shaped just like this radical? That's why this radical is a <radical>hat</radical>."
+    },
+    {
+        "char": null,
+        "level": 3,
+        "meaning": "Triceratops",
+        "mnemonic": "The three horns represent the <radical>triceratops</radical>, one of the most awesome dinosaurs ever."
+    },
+    {
+        "char": null,
+        "level": 4,
+        "meaning": "Beggar",
+        "mnemonic": "Doesn't this look like someone on their knees, holding their hands out (clasped) and begging for something (money, their life, etc.)? That's why this radical is known as the <radical>beggar</radical>."
+    },
+    {
+        "char": null,
+        "level": 4,
+        "meaning": "Horns",
+        "mnemonic": "Can you see the <radical>horns</radical>? You could put these horns on anything. Donkeys, people, monkeys, and so on. That's exactly what we'll be doing when we learn kanji that have horns too."
+    },
+    {
+        "char": null,
+        "level": 4,
+        "meaning": "Spikes",
+        "mnemonic": "On the ground there are a bunch of <radical>spikes</radical> coming out. You wouldn't want to step on those now, would you?"
+    },
+    {
+        "char": null,
+        "level": 5,
+        "meaning": "Viking",
+        "mnemonic": "This is a roof with extra spikes / horns on it. Who was famous for having spiked roofs, spiked helmets, spiked boats?! The Vikings! That's why this is the <radical>Viking</radical> radical."
+    },
+    {
+        "char": null,
+        "level": 5,
+        "meaning": "Kick",
+        "mnemonic": "These are legs that are bending funny. They're bending so they can <radical>kick</radical> you! Imagine someone doing a flying kick at you. Look at their legs and, ah yes, it looks just like this!"
+    },
+    {
+        "char": null,
+        "level": 30,
+        "meaning": "Hills",
+        "mnemonic": "See the rolling <radical>hills</radical> with the road going off into the background to another hill? That's why this is the hills radical."
+    },
+    {
+        "char": null,
+        "level": 9,
+        "meaning": "Cleat",
+        "mnemonic": "There's the bottom of the shoe and the spikes coming out of it. Only one kind of shoe is like this, and that is a <radical>cleat</radical>."
+    },
+    {
+        "char": null,
+        "level": 9,
+        "meaning": "Pope",
+        "mnemonic": "Someone has crosses for eyes. That would have to be a really devout Catholic. Who's number one in that field? That would be the <radical>Pope</radical>."
+    },
+    {
+        "char": null,
+        "level": 10,
+        "meaning": "Chinese",
+        "mnemonic": "Why is your husband putting flowers in his mouth? It's because he's <radical>Chinese</radical>. It's just something they do over there, you explain. Tea is flower water, this isn't that weird. Chinese people just thought of doing it first."
+    },
+    {
+        "char": null,
+        "level": 11,
+        "meaning": "Blackjack",
+        "mnemonic": "You have the radical twenty and the kanji one. Put those together and you get 21. What's another name for 21? That's <radical>blackjack</radical>."
+    },
+    {
+        "char": null,
+        "level": 11,
+        "meaning": "Trash",
+        "mnemonic": "There's a lid on top of something you're trying to keep private. It's your <radical>trash</radical>. You wouldn't want people going through your private trash, which is why we put lids on our trash cans. It's also illegal to look through someone's trash, so make sure you never do that."
+    },
+    {
+        "char": null,
+        "level": 11,
+        "meaning": "Bear",
+        "mnemonic": "This looks like the letter \"B\" which stands for <radical>bear</radical>. B for Bear! The letter B also looks a bit like a bear, if you think about it."
+    },
+    {
+        "char": null,
+        "level": 12,
+        "meaning": "Tofu",
+        "mnemonic": "See the T and F that make up this radical? Those letters stand for <radical>tofu</radical>, our favorite bean curd blocks."
+    },
+    {
+        "char": null,
+        "level": 9,
+        "meaning": "Spring",
+        "mnemonic": "This radical looks like some new plants pushing their way up and out of the soil. That's because this is the <radical>spring</radical> radical. Spring is the season (and the radical) full of new, growing life!"
+    },
+    {
+        "char": null,
+        "level": 8,
+        "meaning": "Cape",
+        "mnemonic": "This is a <radical>cape</radical>, like the kind a superhero would wear. See how it's hanging to the side? Imagine tying it around your neck and running around so it flies behind you."
+    },
+    {
+        "char": null,
+        "level": 13,
+        "meaning": "Creeper",
+        "mnemonic": "Do you see the little mustache on top of the mouth? It's one of those creepy mustaches... a John Waters sort of deal. That's why this radical is called <radical>creeper</radical>. (It also bears some resemblance to a certain hissing green thing's head but... well, you remember it how you want.)"
+    },
+    {
+        "char": null,
+        "level": 14,
+        "meaning": "Bar",
+        "mnemonic": "There are two drunkards here. That makes this radical a <radical>bar</radical>. Where else are you gonna drink?"
+    },
+    {
+        "char": null,
+        "level": 15,
+        "meaning": "Grass",
+        "mnemonic": "Don't confuse this with triceratops. <radical>Grass</radical> is closer together, and a little bushier, like this. It's also more random and squished down in parts. If you see a bush of lines like this, it's probably going to be grass."
+    },
+    {
+        "char": null,
+        "level": 16,
+        "meaning": "Zombie",
+        "mnemonic": "This radical has a figure reaching out both hands at you with some dirt on his head. This is a <radical>zombie</radical>, and he must have just recently dug himself out of the grave by the looks of it."
+    },
+    {
+        "char": null,
+        "level": 9,
+        "meaning": "Squid",
+        "mnemonic": "See the <radical>squid</radical> shape here? There's its head, its body, and its tentacles (two, anyway). Pretty squid-like if you ask me!"
+    },
+    {
+        "char": null,
+        "level": 9,
+        "meaning": "Yurt",
+        "mnemonic": "There's a canopy with a little table and seats inside. This is a <radical>yurt</radical>! It may look like a canopy at first, but when you go inside it has a bunch of nice furniture for you to relax on."
+    },
+    {
+        "char": null,
+        "level": 20,
+        "meaning": "Explosion",
+        "mnemonic": "See the energy bursting outward? That's an <radical>explosion</radical>. Boom!"
+    },
+    {
+        "char": null,
+        "level": 24,
+        "meaning": "Death Star",
+        "mnemonic": "There is a hat covering the moon and it's holding a knife. Wait, that's no moon. It's a space station! It's the <radical>Death Star</radical>! It's pretending to be a moon under that hat. And it's armed! Don't let the Death Star stab your planet to death."
+    },
+    {
+        "char": null,
+        "level": 26,
+        "meaning": "Comb",
+        "mnemonic": "Look at all those little things sticking out. You could easily use it to <radical>comb</radical> your hair."
+    },
+    {
+        "char": null,
+        "level": 23,
+        "meaning": "Morning",
+        "mnemonic": "This is the left side of the kanji <ja>朝</ja>, so we'll call it <radical>morning</radical> too."
+    },
+    {
+        "char": null,
+        "level": 33,
+        "meaning": "Coral",
+        "mnemonic": "In the water is a barb on the ground. It's <radical>coral</radical>. Coral may look pretty, but if you slip in the water and step on it, you're gonna get scratched up. That stuff is roooough."
+    },
+    {
+        "char": null,
+        "level": 41,
+        "meaning": "Cactus",
+        "mnemonic": "See the <radical>cactus</radical> coming out of the ground? It's happy to see you!"
+    },
+    {
+        "char": null,
+        "level": 50,
+        "meaning": "Psychopath",
+        "mnemonic": "Inside this guy's forehead you have a spoon and a bunch of hair, not to mention whatever that is in the top left. That's the mind of a <radical>psychopath</radical> right there."
+    },
+    {
+        "char": null,
+        "level": 42,
+        "meaning": "Satellite",
+        "mnemonic": "Look at this radical. Can you see it floating in space? Can you see the antennae and reflectors? That's because it's a <radical>satellite</radical>."
+    },
+    {
+        "char": null,
+        "level": 32,
+        "meaning": "Elf",
+        "mnemonic": "You see a leaf ear, better known as an <radical>elf</radical>! Elves are just humans who have ears that are pointy like leaves."
+    },
+    {
+        "char": null,
+        "level": 9,
+        "meaning": "Gladiator",
+        "mnemonic": "Someone shoved horns down onto your husband and said he has to fight for them now. They turned him into a <radical>gladiator</radical>! Now your husband has to fight for their amusement. Oh no!"
+    },
+    {
+        "char": "永",
+        "level": 9,
+        "meaning": "Eternity",
+        "mnemonic": "A drop of water will last for an <radical>eternity</radical>. Do you remember learning about the water cycle in school? A single drop of water can recycle itself this way for all eternity!"
+    },
+    {
+        "char": "直",
+        "level": 12,
+        "meaning": "Fix",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>fix</radical>."
+    },
+    {
+        "char": "良",
+        "level": 13,
+        "meaning": "Good",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>good</radical>."
+    },
+    {
+        "char": "象",
+        "level": 13,
+        "meaning": "Elephant",
+        "mnemonic": "What animal is a sad excuse for a pig? An <radical>elephant</radical>. Imagine an elephant trying to pretend to be a pig. They're gray, not pink. And they have really long trunks, not little pig sniffers. And they're way, way bigger. Silly elephant."
+    },
+    {
+        "char": "畐",
+        "level": 13,
+        "meaning": "Scarecrow",
+        "mnemonic": "A creeper in a rice paddy? That's just a <radical>scarecrow</radical>!"
+    },
+    {
+        "char": "祭",
+        "level": 17,
+        "meaning": "Festival",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>festival</radical>."
+    },
+    {
+        "char": "丬",
+        "level": 22,
+        "meaning": "Icicle",
+        "mnemonic": "This ice is in the shape of a stick. It's an <radical>icicle</radical>!"
+    },
+    {
+        "char": "倉",
+        "level": 26,
+        "meaning": "Warehouse",
+        "mnemonic": "You put your hat on the ground and a flag in your mouth. You're letting the world know that they can use your mouth as a <radical>warehouse</radical>. Your gullet is open for storage business. Need to store some ice cream? Please use my mouth warehouse. ;D ;D ;D"
+    },
+    {
+        "char": "章",
+        "level": 26,
+        "meaning": "Chapter",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>chapter</radical>."
+    },
+    {
+        "char": "郎",
+        "level": 31,
+        "meaning": "Guy",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>guy</radical>."
+    },
+    {
+        "char": "喿",
+        "level": 33,
+        "meaning": "Syrup",
+        "mnemonic": "The products trees make? That's <radical>syrup</radical>. Delicious maple syrup, for example. Mmmm!"
+    },
+    {
+        "char": "将",
+        "level": 35,
+        "meaning": "Commander",
+        "mnemonic": "Who wears cleats and takes your measurements for so long that icicles start forming on your body? Your <radical>commander</radical>. The commander is very, very particular. And everyone knows the commander has to get everything exactly right. So taking your measurements takes SO long that icicles grow out of your nose. But that's okay. You have to impress your new commander, darn it!"
+    },
+    {
+        "char": "疑",
+        "level": 55,
+        "meaning": "Doubt",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>doubt</radical>."
+    },
+    {
+        "char": "喜",
+        "level": 40,
+        "meaning": "Rejoice",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>rejoice</radical>."
+    },
+    {
+        "char": "妻",
+        "level": 41,
+        "meaning": "Wife",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>wife</radical>."
+    },
+    {
+        "char": "荒",
+        "level": 49,
+        "meaning": "Wild",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>wild</radical>."
+    },
+    {
+        "char": "宣",
+        "level": 41,
+        "meaning": "Proclaim",
+        "mnemonic": "This radical is the same as the kanji. It means <radical>proclaim</radical>."
+    },
+    {
+        "char": "麦",
+        "level": 40,
+        "meaning": "Wheat",
+        "mnemonic": "This radical is the same as the kanji, but you learned that a really long time ago, so here's a reminder of the mnemonic, just in case:\r\n\r\nWhat gives you life during the winter? It's the <radical>wheat</radical> you store away."
+    },
+    {
+        "char": "前",
+        "level": 47,
+        "meaning": "Before",
+        "mnemonic": "The meaning of this radical is the same as the alternative kanji meaning. It means <radical>before</radical>."
+    }
+]
