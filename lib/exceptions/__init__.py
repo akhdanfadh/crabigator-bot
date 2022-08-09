@@ -1,4 +1,4 @@
-from disnake.ext import commands
+from discord.ext import commands
 
 
 class UserBlacklisted(commands.CheckFailure):

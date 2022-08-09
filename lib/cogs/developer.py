@@ -1,31 +1,27 @@
-from typing import Literal
-
-from disnake import ApplicationCommandInteraction
-from disnake import Embed
-from disnake.ext import commands
+import discord
+from discord import Cog, Embed
 
 from lib.utils import checks
 
 
-class Developer(commands.Cog, name="developer"):
+class Developer(Cog, name="developer"):
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.slash_command(
+    @discord.slash_command(
         name="shutdown",
         description="Make the bot shutdown.",
     )
     @checks.is_developer()
-    async def shutdown(self, interaction: ApplicationCommandInteraction) -> None:
+    async def shutdown(self, ctx):
         embed = Embed(
             description="Shutting down. Bye! 👋🏼",
-            color=0xFF0000
+            color=0xd62728  # tab:red matplotlib
         )
 
         channel_announce_id = int(self.bot.config["channel_ids"]["announce"])
-        print(channel_announce_id)
-        await interaction.send("Got it! Going to #announcement channel.")
-        await interaction.guild.get_channel(channel_announce_id).send(embed=embed)
+        await ctx.respond("Got it! Going to announce this on your announcement channel.")
+        await ctx.guild.get_channel(channel_announce_id).send(embed=embed)
         await self.bot.close()
 
 

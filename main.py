@@ -4,10 +4,9 @@ import json
 import platform
 import random
 
-import disnake
-from disnake.ext.commands import Bot
-from disnake.ext import tasks, commands
-from disnake import ApplicationCommandInteraction
+import discord
+from discord import Intents, Bot, Embed
+from discord.ext import tasks, commands
 
 import lib.exceptions as exceptions
 
@@ -21,11 +20,11 @@ else:
 
 
 # Setup Discord bot intents and initialize client
-intents = disnake.Intents.default()
+intents = Intents.default()
 intents.message_content = True
 bot = Bot(
-    command_prefix=commands.when_mentioned_or(config["bot_prefix"]),
-    intents=intents, help_command=None
+    intents=intents,
+    debug_guilds=[int(config["guild_id"])]
 )
 bot.config = config
 
@@ -34,14 +33,21 @@ bot.config = config
 async def on_ready() -> None:
     """Called when the connection to Discord has been established."""
     print(f"Logged in as '{bot.user}' v{config['bot_version']}")
-    print(f"disnake API version: {disnake.__version__}")
+    print(f"PyCord API version: {discord.__version__}")
     print(f"Python version: {platform.python_version()}")
     print(f"Running on: {platform.system()} {platform.release()} ({os.name})")
     print("-------------------")
     bot_presence.start()
 
+    embed = Embed(
+        description="I'm online! 🤟🏼",
+        color=0x2ca02c  # tab:green matplotlib
+    )
+    channel_announce_id = int(config["channel_ids"]["announce"])
+    await bot.get_channel(channel_announce_id).send(embed=embed)
 
-@tasks.loop(minutes=10.0)
+
+@tasks.loop(minutes=1.0)
 async def bot_presence() -> None:
     """Bot discord presence status updated every minute."""
     statuses = [
@@ -57,11 +63,11 @@ async def bot_presence() -> None:
         "On a crabigator date.",
         "Yell 助けて for help!",
     ]
-    await bot.change_presence(activity=disnake.Game(random.choice(statuses)))
+    await bot.change_presence(activity=discord.Game(random.choice(statuses)))
 
 
-# Loading bot cogs
 if __name__ == "__main__":
+    # Loading bot cogs
     print("Crabigator is running setup...")
     for file in os.listdir(f"./lib/cogs"):
         if file.endswith(".py"):
@@ -72,36 +78,43 @@ if __name__ == "__main__":
             except Exception as e:
                 exception = f"{type(e).__name__}: {e}"
                 print(f"! {cog} cog failed to load:\n  {exception}")
+
+    # Loading WaniKani items
+    bot.item_names = {
+        'rad': 'radical',
+        'kan': 'kanji',
+        'voc': 'vocabulary',
+    }
+    bot.item_data = {}
+    for file in os.listdir(f"./data/items"):
+        if file.endswith(".json"):
+            type = file[:3]
+            with open("data/items/"+file, "r") as items:
+                bot.item_data[type] = json.load(items)
+                print(f"- {bot.item_names[type]} item data loaded")
+
     print("Setup complete\n")
 
 
 @bot.event
-async def on_message(message: disnake.Message) -> None:
-    """Triggered every time someone sends a message."""
-    if message.author == bot.user or message.author.bot:
-        return
-    await bot.process_commands(message)
-
-
-@bot.event
-async def on_slash_command(interaction: ApplicationCommandInteraction) -> None:
+async def on_application_command(ctx) -> None:
     """Executed every time a slash command has been *successfully* executed."""
     message = (
-        f"Executed {interaction.data.name} command in "
-        f"{interaction.guild.name} (ID: {interaction.guild.id}) by "
-        f"{interaction.author} (ID: {interaction.author.id})"
+        f"Executed '/{ctx.command.name}' command in "
+        f"{ctx.guild.name} (ID: {ctx.guild.id}) by "
+        f"{ctx.author} (ID: {ctx.author.id})"
     )
     print(message)
 
 
 @bot.event
-async def on_slash_command_error(interaction: ApplicationCommandInteraction, error: Exception) -> None:
+async def on_application_command_error(ctx, exception) -> None:
     """Executed every time a valid slash command catches an error.
 
     'ephemeral=True' will make so that only the user who execute the command can see the message.
     """
-    if isinstance(error, commands.CommandOnCooldown):
-        minutes, seconds = divmod(error.retry_after, 60)
+    if isinstance(exception, commands.CommandOnCooldown):
+        minutes, seconds = divmod(exception.retry_after, 60)
         hours, minutes = divmod(minutes, 60)
         hours = hours % 24
         message = (
@@ -110,43 +123,43 @@ async def on_slash_command_error(interaction: ApplicationCommandInteraction, err
             f"{f'{round(minutes)} minutes' if round(minutes) > 0 else ''} "
             f"{f'{round(seconds)} seconds' if round(seconds) > 0 else ''}."
         )
-        embed = disnake.Embed(
+        embed = discord.Embed(
             title="Hey, please slow down!",
             description=message,
-            color=0xE02B2B
+            color=0xFF0000
         )
-        return await interaction.send(embed=embed, ephemeral=True)
-    elif isinstance(error, exceptions.UserBlacklisted):
-        embed = disnake.Embed(
+        return await ctx.send(embed=embed, ephemeral=True)
+    elif isinstance(exception, exceptions.UserBlacklisted):
+        embed = discord.Embed(
             title="Error!",
             description="You are blacklisted from using the bot.",
-            color=0xE02B2B
+            color=0xFF0000
         )
-        return await interaction.send(embed=embed, ephemeral=True)
-    elif isinstance(error, exceptions.UserNotDeveloper):
-        embed = disnake.Embed(
+        return await ctx.send(embed=embed, ephemeral=True)
+    elif isinstance(exception, exceptions.UserNotDeveloper):
+        embed = discord.Embed(
             title="Error!",
             description="You are not the developer of the bot!",
-            color=0xE02B2B
+            color=0xFF0000
         )
-        return await interaction.send(embed=embed, ephemeral=True)
-    elif isinstance(error, commands.MissingPermissions):
-        embed = disnake.Embed(
+        return await ctx.send(embed=embed, ephemeral=True)
+    elif isinstance(exception, commands.MissingPermissions):
+        embed = discord.Embed(
             title="Error!",
             description="You are missing the permission(s) `" + ", ".join(
-                error.missing_permissions) + "` to execute this command!",
-            color=0xE02B2B
+                exception.missing_permissions) + "` to execute this command!",
+            color=0xFF0000
         )
-        return await interaction.send(embed=embed, ephemeral=True)
-    elif isinstance(error, commands.MissingRequiredArgument):
-        embed = disnake.Embed(
+        return await ctx.send(embed=embed, ephemeral=True)
+    elif isinstance(exception, commands.MissingRequiredArgument):
+        embed = discord.Embed(
             title="Error!",
             # Command arguments have no capital letter in the code.
-            description=str(error).capitalize(),
-            color=0xE02B2B
+            description=str(exception).capitalize(),
+            color=0xFF0000
         )
-        await interaction.send(embed=embed, ephemeral=True)
-    raise error
+        await ctx.send(embed=embed, ephemeral=True)
+    raise exception
 
 
 # Finally run the bot
