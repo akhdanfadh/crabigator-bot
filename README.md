@@ -3,7 +3,6 @@
 My current configuration file (subject to change). Change necessary part for your server:
 ```json
 {
-    "bot_version": "0.1.0",
     "bot_prefix": "wk!",
     "bot_token": "<YOUR_BOT_TOKEN>",
     "wk_token": "<YOUR_WANIKANI_API_TOKEN (not yet necessary)>",

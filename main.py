@@ -11,6 +11,9 @@ from discord.ext import tasks, commands
 import lib.exceptions as exceptions
 
 
+VERSION = '0.2.0'
+
+
 # Load configuration and system files
 if not os.path.isfile("config.json"):
     sys.exit("'config.json' not found! Please add it and try again.")
@@ -27,12 +30,13 @@ bot = Bot(
     debug_guilds=[int(config["guild_id"])]
 )
 bot.config = config
+bot.version = VERSION
 
 
 @bot.event
 async def on_ready() -> None:
     """Called when the connection to Discord has been established."""
-    print(f"Logged in as '{bot.user}' v{config['bot_version']}")
+    print(f"Logged in as '{bot.user}' v{bot.version}")
     print(f"PyCord API version: {discord.__version__}")
     print(f"Python version: {platform.python_version()}")
     print(f"Running on: {platform.system()} {platform.release()} ({os.name})")
