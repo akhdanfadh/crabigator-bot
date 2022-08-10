@@ -9,9 +9,12 @@ from discord import Intents, Bot, Embed
 from discord.ext import tasks, commands
 
 import lib.exceptions as exceptions
+from lib.utils.manage_item import ITEM_NAMES, load_item_data
+from lib.utils.scrape_wk import cache_items
 
 
-VERSION = '0.2.0'
+VERSION = '0.2.1'
+UPDATE_WK_ITEMS = False
 
 
 # Load configuration and system files
@@ -36,6 +39,7 @@ bot.version = VERSION
 @bot.event
 async def on_ready() -> None:
     """Called when the connection to Discord has been established."""
+    print("-------------------")
     print(f"Logged in as '{bot.user}' v{bot.version}")
     print(f"PyCord API version: {discord.__version__}")
     print(f"Python version: {platform.python_version()}")
@@ -72,7 +76,7 @@ async def bot_presence() -> None:
 
 if __name__ == "__main__":
     # Loading bot cogs
-    print("Crabigator is running setup...")
+    print("\nLoading Crabigator cogs:")
     for file in os.listdir(f"./lib/cogs"):
         if file.endswith(".py"):
             cog = file[:-3]
@@ -82,22 +86,15 @@ if __name__ == "__main__":
             except Exception as e:
                 exception = f"{type(e).__name__}: {e}"
                 print(f"! {cog} cog failed to load:\n  {exception}")
+    print("Finished loading the cogs.\n")
 
     # Loading WaniKani items
-    bot.item_names = {
-        'rad': 'radical',
-        'kan': 'kanji',
-        'voc': 'vocabulary',
-    }
+    cache_items(config["wk_token"], UPDATE_WK_ITEMS)
+    bot.item_names = ITEM_NAMES
     bot.item_data = {}
-    for file in os.listdir(f"./data/items"):
-        if file.endswith(".json"):
-            type = file[:3]
-            with open("data/items/"+file, "r") as items:
-                bot.item_data[type] = json.load(items)
-                print(f"- {bot.item_names[type]} item data loaded")
-
-    print("Setup complete\n")
+    print("\nLoading WaniKani items:")
+    load_item_data(bot)
+    print("Finished loading all items.\n")
 
 
 @bot.event
