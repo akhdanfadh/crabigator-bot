@@ -1,19 +1,19 @@
-## config.json
+## Environment Variables
 
-My current configuration file (subject to change). Change necessary part for your server:
+All environment variables for the bot are stored in `config.json` as follows. Necessary variables are indicated by `<>`, otherwise they are used for testing. If you wantn to directly use the code, fill all the variables.
 ```json
 {
-    "bot_prefix": "wk!",
-    "bot_token": "<YOUR_BOT_TOKEN>",
-    "wk_token": "<YOUR_WANIKANI_API_TOKEN (not yet necessary)>",
+    "bot_prefix": "<BOT_PREFIX>",
+    "bot_token": "<BOT_TOKEN>",
+    "wk_token": "<WANIKANI_API_TOKEN>",
     "developer_ids": [
         <YOUR_ID>,
     ],
-    "application_id": "<YOUR_APPLICATION_ID (not necessary)>",
-    "guild_id": "<YOUR_GUILD_ID (not necessary)>",
+    "application_id": "?APPLICATION_ID?",
+    "guild_id": "?GUILD_ID?",
     "channel_ids": {
-        "announce": "<YOUR_CHANNEL_ID (for announcement)>",
-        "test": "<YOUR_CHANNEL_ID (for testing, not necessary)>"
+        "announce": "<ANNOUNCEMENT_CHANNEL_ID>",
+        "test": "?TEST_CHANNEL_ID?"
     }
 }
 ```

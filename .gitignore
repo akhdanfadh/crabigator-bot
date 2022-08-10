@@ -2,3 +2,5 @@ config.json
 .vscode
 .ignore
 __pycache__/
+data/items/*/
+version.txt
