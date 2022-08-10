@@ -21,14 +21,9 @@ def load_item_data(bot):
             print(f"- {ITEM_NAMES[type]} item data loaded")
 
 
-def parse_meanings(item: str):
-    """Parse meanings and create a meaning list for a WaniKani item."""
-    all_meanings = item.split(',')
-    return [meaning.strip().lower() for meaning in all_meanings]
-
-
 def find_item(data, name):
     """Find an item from WaniKani items data."""
     for item in data:
-        meanings = parse_meanings(item["meaning"])
-        return item if name == item["char"] or name.lower() in meanings else None
+        meanings = [meaning.lower() for meaning in item["meanings"]]
+        if name == item["char"] or name.lower() in meanings:
+            return item

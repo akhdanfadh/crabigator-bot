@@ -13,7 +13,7 @@ from lib.utils.manage_item import ITEM_NAMES, load_item_data
 from lib.utils.scrape_wk import cache_items
 
 
-VERSION = '0.2.1'
+VERSION = '0.2.2'
 UPDATE_WK_ITEMS = False
 
 

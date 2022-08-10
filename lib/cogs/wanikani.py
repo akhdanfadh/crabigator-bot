@@ -20,7 +20,7 @@ class Wanikani(Cog, name="wanikani"):
         name: Option(
             input_type=str,
             name='name',
-            description='Name of the item (e.g. "大 or "big").',
+            description='The meaning or characters (not reading) of the item (e.g. "大" or "big").',
             required=True
         ),
         type: Option(
@@ -48,31 +48,55 @@ class Wanikani(Cog, name="wanikani"):
 
         # Bot response
         if item == None:
-            await ctx.respond("Sorry, but the requested item could not be found! Try specifying the item type.")
+            await ctx.respond(f"Sorry, but the requested item ({name}) could not be found! Try specifying the item type.")
         else:
+            colors = {'rad': 0x00AAFF, 'kan': 0xFF00AA, 'voc': 0xAA00FF}
+            meanings = ', '.join(item['meanings'])
             embed = Embed(
-                title=f"**{item['char'] if item['char'] != None else item['meaning']}**",
-                description=f"A Level {item['level']} **{self.bot.item_names[type]}**",
-                color=0xe377c2  # tab:pink matplotlib
+                title=f"**{item['char'] if item['char'] != None else meanings}**",
+                description=f"A level {item['level']} **{self.bot.item_names[type]}**, more details [here]({item['url']}).",
+                color=colors[type]
             )
             embed.set_footer(text=f"Requested by {ctx.author}")
             embed.add_field(
-                name="Meaning:",
-                value=f"{item['meaning']}",
+                name="Meaning(s):",
+                value=meanings,
                 inline=True
             )
+            if type == 'kan':
+                readings = ""
+                for reading_type, reading in item['readings'].items():
+                    if reading is None: continue
+                    unpack = ', '.join(reading)
+                    if readings == "":
+                        readings += f"{reading_type.capitalize()}: {unpack}"
+                    else:
+                        readings += f", {reading_type.capitalize()}: {unpack}"
+                embed.add_field(
+                    name="Reading(s):",
+                    value=readings,
+                    inline=True
+                )
+            elif type == 'voc':
+                embed.add_field(
+                    name="Reading(s):",
+                    value=', '.join(item['readings']),
+                    inline=True
+                )
             embed.add_field(
                 name="Meaning mnemonic:",
-                value=f"{item['mnemonic']}",
+                value=f"{item['meaning_mnemonic']}",
                 inline=False
             )
-            if type == 'kan':
+            if type == 'kan' or type == 'voc':
                 embed.add_field(
-                    name="Kanji hint:",
-                    value=f"{item['hint']}",
+                    name="Reading mnemonic:",
+                    value=f"{item['reading_mnemonic']}",
                     inline=False
                 )
-
+            if type =='rad':
+                embed.set_thumbnail(url=f"{item['char_image']}")
+            
             await ctx.send_response(embed=embed)
 
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.2.2 (10/08/2022)
+
+### Fix
+- Changed database structure for the reading of kanji
+- Fixed `/search` command to follow the current database structure
+
 <!--next-version-placeholder-->
 
 ## v0.2.1 (10/08/2022)
