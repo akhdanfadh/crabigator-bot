@@ -9,11 +9,11 @@ class General(Cog, name="general"):
         self.bot = bot
 
     @discord.slash_command(
-        name="abot",
+        name="about",
         description="Get some useful (or not) information about the bot.",
     )
     @checks.not_blacklisted()
-    async def abot(self, ctx):
+    async def about(self, ctx):
         embed = Embed(
             title="Holy Crabigator Bot Information",
             description="Python-based discord bot developed for WaniKani visual mnemonic project.",
