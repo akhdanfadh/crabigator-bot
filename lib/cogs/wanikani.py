@@ -3,6 +3,7 @@ from discord import Cog, Embed
 from discord import ApplicationContext, Option, OptionChoice
 
 from lib.utils import checks
+from lib.utils.manage_item import find_item
 
 
 class Wanikani(Cog, name="wanikani"):
@@ -19,7 +20,7 @@ class Wanikani(Cog, name="wanikani"):
         name: Option(
             input_type=str,
             name='name',
-            description="Name of the item (e.g. '大' or 'big').",
+            description='Name of the item (e.g. "大 or "big").',
             required=True
         ),
         type: Option(
@@ -34,14 +35,6 @@ class Wanikani(Cog, name="wanikani"):
             ]
         )
     ):
-        def find_item(data, name):
-            """Find an item from WaniKani data"""
-            for item in data:
-                meanings = item["meaning"].split(',')
-                meanings = [meaning.strip().lower() for meaning in meanings]
-                if name == item["char"] or name.lower() in meanings:
-                    return item
-
         # Find the corresponding item
         item = None
         if type is None:

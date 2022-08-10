@@ -36,14 +36,14 @@ class General(Cog, name="general"):
         )
         embed.add_field(
             name="Bot Version:",
-            value=f"{self.bot.config['bot_version']}",
+            value=f"{self.bot.version}",
             inline=True
         )
 
         view = ui.View()
         view.add_item(ui.Button(
             label='GitHub',
-            url='https://github.com/saraqael-m/CrabigatorBot',
+            url='https://github.com/akhdanfadh/crabigator-bot',
             row=0
         ))
         view.add_item(ui.Button(
