@@ -1,11 +1,9 @@
 import json
-import os
-
 
 ITEM_NAMES = {
-    'rad': 'Radical',
-    'kan': 'Kanji',
-    'voc': 'Vocabulary'
+    'rad': 'radical',
+    'kan': 'kanji',
+    'voc': 'vocabulary'
 }
 
 ITEM_DATA = {

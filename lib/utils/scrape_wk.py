@@ -1,5 +1,4 @@
 import os
-from sys import base_prefix
 import requests
 import time
 import json
