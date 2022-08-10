@@ -1,5 +1,5 @@
 import discord
-from discord import Cog, Embed
+from discord import Cog, Embed, ui
 from discord import ApplicationContext, Option, OptionChoice
 
 from lib.utils import checks
@@ -53,8 +53,8 @@ class Wanikani(Cog, name="wanikani"):
             colors = {'rad': 0x00AAFF, 'kan': 0xFF00AA, 'voc': 0xAA00FF}
             meanings = ', '.join(item['meanings'])
             embed = Embed(
-                title=f"**{item['char'] if item['char'] != None else meanings}**",
-                description=f"A level {item['level']} **{self.bot.item_names[type]}**, more details [here]({item['url']}).",
+                title=f"> **{item['char'] if item['char'] != None else meanings}**",
+                description=f"A level {item['level']} **{self.bot.item_names[type]}**",
                 color=colors[type]
             )
             embed.set_footer(text=f"Requested by {ctx.author}")
@@ -96,8 +96,15 @@ class Wanikani(Cog, name="wanikani"):
                 )
             if type =='rad':
                 embed.set_thumbnail(url=f"{item['char_image']}")
+
+            view = ui.View()
+            view.add_item(ui.Button(
+                label='Details',
+                url=f"{item['url']}",
+                row=0
+            ))
             
-            await ctx.send_response(embed=embed)
+            await ctx.send_response(embed=embed, view=view)
 
 
 def setup(bot):
