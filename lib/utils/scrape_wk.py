@@ -88,10 +88,17 @@ def filter_cache_item(data: list, item_type: str) -> dict:
 
     elif item_type == "kanji":
         meanings = [meaning["meaning"] for meaning in data["data"]["meanings"]]
-        readings = [
-            {"type": reading["type"], "reading": reading["reading"]}
-            for reading in data["data"]["readings"]
-        ]
+        readings = {
+            "onyomi": None,
+            "kunyomi": None,
+            "nanori": None
+        }
+        for reading in data["data"]["readings"]:
+            reading_type = reading["type"]
+            if readings[reading_type] is None:
+                readings[reading_type] = [reading["reading"]]
+            else:
+                readings[reading_type].append(reading["reading"])
         return {
             "id": data["id"],
             "item_type": data["object"],
