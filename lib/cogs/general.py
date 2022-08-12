@@ -2,6 +2,7 @@ import discord
 from discord import Cog, Embed, ui
 
 from lib.utils import checks
+from lib.utils.constants import EMBED_COLOR
 
 
 class General(Cog, name="general"):
@@ -17,7 +18,7 @@ class General(Cog, name="general"):
         embed = Embed(
             title="Holy Crabigator Bot Information",
             description="Python-based discord bot developed for WaniKani visual mnemonic project.",
-            color=0xe377c2  # tab:pink matplotlib
+            color=EMBED_COLOR['pink']
         )
         embed.set_thumbnail(
             url="https://wk-mnemonic-images.b-cdn.net/bot_icon.png")
@@ -63,7 +64,7 @@ class General(Cog, name="general"):
         embed = Embed(
             title="🦀 Kani!",
             description=f"The bot latency is {round(self.bot.latency * 1000)}ms.",
-            color=0xe377c2  # tab:pink matplotlib
+            color=EMBED_COLOR['pink']
         )
         await ctx.send_response(embed=embed)
 

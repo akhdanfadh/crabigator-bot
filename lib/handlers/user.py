@@ -1,7 +1,7 @@
 import json
 
 
-def add_blacklisted_user(user_id: int) -> None:
+def add_blacklisted_user(user_id: int):
     """Add a user ID to the blacklist."""
     with open("data/users/blacklisted.json", "r+") as file:
         file_data = json.load(file)
@@ -12,7 +12,7 @@ def add_blacklisted_user(user_id: int) -> None:
         json.dump(file_data, file, indent=4)
 
 
-def remove_blacklist_user(user_id: int) -> None:
+def remove_blacklist_user(user_id: int):
     """Remove a user ID from the blacklist."""
     with open("data/users/blacklisted.json", "r") as file:
         file_data = json.load(file)

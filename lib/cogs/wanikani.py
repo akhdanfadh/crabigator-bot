@@ -3,7 +3,8 @@ from discord import Cog, Embed, ui
 from discord import ApplicationContext, Option, OptionChoice
 
 from lib.utils import checks
-from lib.utils.manage_item import find_item
+from lib.utils.constants import ITEM_TYPE, EMBED_COLOR
+from lib.handlers.wk_item import find_item
 
 
 class Wanikani(Cog, name="wanikani"):
@@ -18,44 +19,39 @@ class Wanikani(Cog, name="wanikani"):
     async def search(
         self, ctx: ApplicationContext,
         name: Option(
-            input_type=str,
+            str,
             name='name',
             description='The meaning or characters (not reading) of the item (e.g. "大" or "big").',
             required=True
         ),
-        type: Option(
-            input_type=str,
-            name='type',
+        item_type: Option(
+            str,
+            name='item_type',
             description="Type of the item (radical, kanji, or vocab).",
             required=False,
-            choices=[
-                        OptionChoice(value='rad', name='Radical'),
-                        OptionChoice(value='kan', name='Kanji'),
-                        OptionChoice(value='voc', name='Vocabulary')
-            ]
-        )
+            choices=[OptionChoice(value=key, name=value)
+                    for key, value in ITEM_TYPE.items()]
+        ),
     ):
         # Find the corresponding item
-        item = None
-        if type is None:
-            for found_type in ['rad', 'kan', 'voc']:
-                item = find_item(self.bot.item_data[found_type], name)
+        if item_type == None:
+            for found_type in ITEM_TYPE.keys():
+                item = find_item(name, self.bot.item_data[found_type])
                 if item != None:
-                    type = found_type
+                    item_type = found_type
                     break
         else:
-            item = find_item(self.bot.item_data[type], name)
+            item = find_item(name, self.bot.item_data[item_type])
 
         # Bot response
         if item == None:
-            await ctx.respond(f"Sorry, but the requested item ({name}) could not be found! Try specifying the item type.")
+            await ctx.respond(f"Sorry, the requested item ({name}) could not be found! Try specifying the item type.")
         else:
-            colors = {'rad': 0x00AAFF, 'kan': 0xFF00AA, 'voc': 0xAA00FF}
             meanings = ', '.join(item['meanings'])
             embed = Embed(
-                title=f"> **{item['char'] if item['char'] != None else meanings}**",
-                description=f"A level {item['level']} **{self.bot.item_names[type]}**",
-                color=colors[type]
+                title=f"**{item['char'] if item['char'] != None else meanings}**",
+                description=f"A level {item['level']} **{ITEM_TYPE[item_type]}**",
+                color=EMBED_COLOR[item_type]
             )
             embed.set_footer(text=f"Requested by {ctx.author}")
             embed.add_field(
@@ -63,21 +59,18 @@ class Wanikani(Cog, name="wanikani"):
                 value=meanings,
                 inline=True
             )
-            if type == 'kan':
-                readings = ""
+            if item_type == 'kan':
+                readings = []
                 for reading_type, reading in item['readings'].items():
                     if reading is None: continue
-                    unpack = ', '.join(reading)
-                    if readings == "":
-                        readings += f"{reading_type.capitalize()}: {unpack}"
-                    else:
-                        readings += f", {reading_type.capitalize()}: {unpack}"
+                    reading_text = f"{reading_type.capitalize()}: {', '.join(reading)}"
+                    readings.append(reading_text)
                 embed.add_field(
                     name="Reading(s):",
-                    value=readings,
+                    value='\n'.join(readings),
                     inline=True
                 )
-            elif type == 'voc':
+            elif item_type == 'voc':
                 embed.add_field(
                     name="Reading(s):",
                     value=', '.join(item['readings']),
@@ -88,13 +81,13 @@ class Wanikani(Cog, name="wanikani"):
                 value=f"{item['meaning_mnemonic']}",
                 inline=False
             )
-            if type == 'kan' or type == 'voc':
+            if item_type == 'kan' or item_type == 'voc':
                 embed.add_field(
                     name="Reading mnemonic:",
                     value=f"{item['reading_mnemonic']}",
                     inline=False
                 )
-            if type =='rad':
+            if item_type =='rad':
                 embed.set_thumbnail(url=f"{item['char_image']}")
 
             view = ui.View()

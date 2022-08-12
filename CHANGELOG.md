@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.2.3 (13/08/2022)
+
+### Feature
+- Add `/submit` dummy command to submit the visual mnemonic to our json database
+
+### Change
+- Change constants handling, e.g. dictionary mapping of type code with its values
+- Reorganize lib folders, separating handlers and utils
+
+###
+
+<!--next-version-placeholder-->
+
 ## v0.2.2 (10/08/2022)
 
 ### Fix

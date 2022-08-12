@@ -2,6 +2,7 @@ import discord
 from discord import Cog, Embed
 
 from lib.utils import checks
+from lib.utils.constants import EMBED_COLOR
 
 
 class Developer(Cog, name="developer"):
@@ -16,7 +17,7 @@ class Developer(Cog, name="developer"):
     async def shutdown(self, ctx):
         embed = Embed(
             description="Shutting down. Bye! 👋🏼",
-            color=0xd62728  # tab:red matplotlib
+            color=EMBED_COLOR['red']
         )
 
         channel_announce_id = int(self.bot.config["channel_ids"]["announce"])
